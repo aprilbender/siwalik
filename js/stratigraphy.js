@@ -1,4 +1,4 @@
-// stratigraphy.js - turkana edition
+// stratigraphy.js - siwalik edition
 //
 // This is a global js file that should work in every page.
 

@@ -1,7 +1,7 @@
 {
-  "name": "turkanastan-stratigraphy",
+  "name": "siwalik-stratigraphy",
   "version": "0.0.1",
-  "description": "Scripts for the Turkanastan site",
+  "description": "Scripts for the siwalik site",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aprilbender/turkanastan.git"
+    "url": "git+https://github.com/aprilbender/siwalik.git"
   },
   "author": "April Johnson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aprilbender/turkanastan/issues"
+    "url": "https://github.com/aprilbender/siwalik/issues"
   },
-  "homepage": "https://github.com/aprilbender/turkanastan#readme",
+  "homepage": "https://github.com/aprilbender/siwalik#readme",
   "dependencies": {
     "svgo": "^1.1.1"
   }

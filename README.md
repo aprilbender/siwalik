@@ -1,6 +1,6 @@
-# Turkanastan Stratigraphy
+# Siwalik Stratigraphy
 
-This is the source code repository for http://turkanastratigraphy.org/
+This is the source code repository for http://siwalikstratigraphy.org/
 
 It contains these directories:
 
