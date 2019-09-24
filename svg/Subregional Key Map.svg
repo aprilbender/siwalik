@@ -7,7 +7,7 @@
 	.st1{fill:#231F20;}
 	.st2{fill:#808184;}
 	.st3{fill:none;}
-	.hoverthing{opacity:0.7;fill:#BE1E2D;}
+	.hoverthing{opacity:0.8;fill:#EE4036;}
 	.st4{fill:url(#USGS_17A_Shifting_Sand);}
 	.st5{fill:url(#USGS_17_Sandy_Dry_Lake);}
 	.st6{fill:url(#USGS_17A_Shifting_Sand);stroke:#231F20;stroke-width:0.75;stroke-miterlimit:10;}
@@ -6386,8 +6386,8 @@
 </g>
 <g id="flags">
 	<a xlink:href="#a" >
-		<path id="smap-1" onclick="navTo('a')" class="hoverthing" d="M337.06,391.4l-1.06,0.62c-3.28,1.91-7.49,0.81-9.4-2.47l-0.3-0.51
-			c-1.89-3.24-0.8-7.39,2.44-9.29l11.06-6.46l7.19,12.3L337.06,391.4"/>
+		<path id="smap-1" onclick="navTo('a')" class="hoverthing" d="M336.56,391.53l-1.1,0.54c-3.4,1.68-7.52,0.28-9.2-3.12l-0.26-0.53
+			c-1.66-3.36-0.28-7.43,3.08-9.09l11.48-5.66l6.3,12.78L336.56,391.53"/>
 	</a>
 	<g>
 	</g>
