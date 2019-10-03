@@ -8,6 +8,7 @@
 	.st2{fill:#808184;}
 	.st3{fill:none;}
 	.hoverthing{opacity:0.8;fill:#EE4036;}
+	.hovergroup{opacity:0.8;fill:#9E1F63;}
 	.st4{fill:url(#USGS_17A_Shifting_Sand);}
 	.st5{fill:url(#USGS_17_Sandy_Dry_Lake);}
 	.st6{fill:url(#USGS_17A_Shifting_Sand);stroke:#231F20;stroke-width:0.75;stroke-miterlimit:10;}
@@ -46,8 +47,7 @@
 	.st39{fill:#26A9E0;}
 	.st40{fill:#00ADEE;}
 	.st41{fill:none;stroke:#EE4036;stroke-width:4;stroke-miterlimit:10;}
-	.st42{opacity:0.8;fill:#9E1F63;}
-	.st43{fill:none;stroke:#9E1F63;stroke-width:3;stroke-miterlimit:10;}
+	.st42{fill:none;stroke:#9E1F63;stroke-width:3;stroke-miterlimit:10;}
 </style>
 <symbol  id="Deleted_Symbol" viewBox="-30.1 -12.21 60.2 24.42">
 	<line class="st0" x1="30.01" y1="6.21" x2="28.01" y2="4.71"/>
@@ -6392,12 +6392,12 @@
 			c-1.66-3.36-0.28-7.43,3.08-9.09l11.48-5.66l6.3,12.78L336.56,391.53"/>
 	</a>
 	<a xlink:href="#b" >
-		<path id="smap-2" onclick="navTo('b')" class="st42 hoverthing" d="M517.79,408l1.23-0.01c3.8-0.04,6.91,3,6.95,6.79l0.01,0.59
+		<path id="smap-2" onclick="navTo('b')" class="hovergroup" d="M517.79,408l1.23-0.01c3.8-0.04,6.91,3,6.95,6.79l0.01,0.59
 			c0.04,3.75-2.96,6.82-6.71,6.87l-12.8,0.15l-0.16-14.25L517.79,408"/>
 	</a>
 </g>
 <g id="new_mirpur">
-	<rect x="490.8" y="403.54" class="st43" width="14.7" height="21.86"/>
+	<rect x="490.8" y="403.54" class="st42" width="14.7" height="21.86"/>
 	<g>
 	</g>
 	<g>
