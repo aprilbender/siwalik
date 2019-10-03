@@ -196,8 +196,12 @@ const showPano = (e, ident) => {
 // targetSelectors should be an array of selectors that the tooltips will be
 // attached to.
 const loadTooltips = (tooltips, targetSelectors) => {
+  console.log("loading tooltips:", tooltips);
+  console.log("targetSelectors:", targetSelectors);
   targetSelectors.forEach(selector => {
+    console.log("examining selector:", selector);
     $(selector).each(function(_, elm) {
+      console.log("add tooltip to element:", elm, tooltips[elm.id]);
       $(elm).attr("data-tippy", tooltips[elm.id]);
     });
   });
