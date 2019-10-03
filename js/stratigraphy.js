@@ -201,7 +201,5 @@ const loadTooltips = (tooltips, targetSelectors) => {
       $(elm).attr("data-tippy", tooltips[elm.id]);
     });
   });
-  $.ajaxSetup({ cache: true });
   $.getScript("https://unpkg.com/tippy.js@3/dist/tippy.all.min.js");
-  $.ajaxSetup({ cache: false });
 };
