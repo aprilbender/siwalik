@@ -203,3 +203,17 @@ const loadTooltips = (tooltips, targetSelectors) => {
   });
   $.getScript("https://unpkg.com/tippy.js@3/dist/tippy.all.min.js");
 };
+
+Webflow.push(function() {
+  $(document).ready(() => {			  
+    loadLargeSvg("#ajaxContent", svgUrl, () => {
+      let hoverthings = [];
+      $('path[class^="hoverthing"]').each((_, t) => { 
+        hoverthings.push(t.className.baseVal); 
+        console.log('got hoverthing:', t.className.baseVal);
+      });
+      console.log('got hoverthings:', hoverthings);
+      loadTooltips(tooltips, hoverthings);
+    });
+  });
+});
