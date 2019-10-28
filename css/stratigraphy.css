@@ -170,6 +170,10 @@ svg a .sectionlink:hover {
   stroke-width: 2px;
 }
 
+path[id*="smap"]:hover {
+  opacity: 1;
+}
+
 .w-container {
   max-width: 1200px;
 }
