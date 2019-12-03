@@ -10,6 +10,7 @@
     "compress:potwar": "npx svgo 'svg/Potwar Key Map.svg' -o 'svg/Potwar_Key_Map_Compressed.svg' --pretty --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:strat_chart": "npx svgo 'Strat Chart.svg' -o 'Strat_Chart_Compressed.svg'",
     "compress:key_map": "npx svgo 'svg/Key Map.svg' -o 'svg/Key_Map_Compressed.svg'"
+    "compress:index_map": "npx svgo 'Strat Chart.svg' -o 'Index_Map_Compressed.svg'",
   },
   "repository": {
     "type": "git",
