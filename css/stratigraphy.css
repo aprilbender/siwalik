@@ -140,6 +140,10 @@ svg g#section-flags-blue a path:hover {
   stroke-width: 2px;
 }
 
+svg .hoverthing:hover {
+  opacity: 1;
+}
+
 svg g#coal .hoverthing:hover {
   opacity: 1;
 }
