@@ -7,6 +7,7 @@
 	.hoverthing_x002D_4{opacity:0.8;fill:#7AC943;}
 	.hoverthing_x002D_5{opacity:0.8;fill:#FF931E;}
 	.hoverthing_x002D_1{opacity:0.8;fill:#F15A24;}
+	.hoverthing_x002D_6{opacity:0.8;fill:#662D91;}
 	.st0{fill:#29ABE2;stroke:#29ABE2;stroke-width:0.5;stroke-miterlimit:10;}
 	.st1{opacity:0.62;}
 	.st2{fill:#D1BD42;}
@@ -26,6 +27,7 @@
 	.st16{fill:none;stroke:#7AC943;stroke-width:4;stroke-miterlimit:10;}
 	.st17{fill:none;stroke:#FF931E;stroke-width:4;stroke-miterlimit:10;}
 	.st18{fill:none;stroke:#F15A24;stroke-width:6;stroke-miterlimit:10;}
+	.st19{fill:none;stroke:#662D91;stroke-width:4;stroke-miterlimit:10;}
 </style>
 <g id="Layer_1">
 </g>
@@ -1838,7 +1840,6 @@
 	<polygon class="st14" points="1076.29,701.91 1075.21,679.88 1193.86,545.33 1205.68,550.82 1182.9,587.37 1201.23,598.89 
 		1143.36,703.95 	"/>
 	<polygon class="st14" points="989.54,766.96 1057.29,767.87 1057.29,875.82 1005.94,874.39 988.1,861.41 	"/>
-	<polygon class="st14" points="1170.23,901.33 1153.82,883.75 1216.29,813.22 1398.81,731.54 1421.83,768.1 1227.51,867.34 	"/>
 	<polygon class="st14" points="185.08,458.94 423.2,458.94 422.11,613.66 183.09,612.54 	"/>
 	<polygon class="st14" points="377.9,468.69 377.9,485.31 411.78,486.91 411.78,600 458.26,601.18 644.85,542.98 642.96,463.94 	"/>
 	<polygon class="st14" points="472.22,563.51 483.29,613.66 686.7,568.1 716.5,466.58 686.28,407.86 619.99,476.92 	"/>
@@ -1854,11 +1855,16 @@
 	<rect x="1092.93" y="858" class="st17" width="44.96" height="34"/>
 	<polygon class="st18" points="850.56,426.14 804.91,362.72 869.09,325.79 934.64,301.04 989.54,289.32 1015.62,282.27 
 		1028.63,300.86 912.71,389.81 892.37,394.36 	"/>
+	<polygon class="st19" points="1167.73,899.33 1153.82,883.97 1206.77,822.35 1361.49,751 1381,782.94 1216.28,869.63 	"/>
 </g>
 <g id="flags">
 	<a xlink:href="#b" >
 		<path id="smap-2" onclick="navTo('b')" class="hoverthing_x002D_2_x0020_" d="M1342.81,631.02l1.87-0.02
 			c5.79-0.08,10.53,5.21,10.6,11.8l0.01,1.02c0.07,6.51-4.51,11.85-10.23,11.92l-19.52,0.25l-0.25-24.75L1342.81,631.02"/>
+	</a>
+	<a xlink:href="#e" >
+		<path id="smap-5" onclick="navTo('b')" class="hoverthing_x002D_6" d="M1369.57,811.16l0.85,1.67c2.62,5.16-0.02,11.75-5.9,14.72
+			l-0.91,0.46c-5.81,2.94-12.63,1.19-15.22-3.91l-8.85-17.4l22.09-11.16L1369.57,811.16"/>
 	</a>
 	<a xlink:href="#a" >
 		<path id="smap-1" onclick="navTo('b')" class="hoverthing_x002D_1" d="M986.39,359.49l1.14,1.49c3.51,4.62,2.08,11.61-3.2,15.63
