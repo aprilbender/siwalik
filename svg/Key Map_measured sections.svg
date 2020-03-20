@@ -4164,16 +4164,49 @@
 </g>
 <g id="sections">
 	<a xlink:href="#a" >
-		<circle id="ms-1" onclick="navTo('a')" class="hoverthing_x002D_1" cx="451.1" cy="487.92" r="7"/>
+		<circle id="chambal" onclick="navTo('a')" class="hoverthing_x002D_1" cx="451.1" cy="487.92" r="7"/>
+	</a>
+	<a xlink:href="#a" >
+		<circle id="_x23_15_1_" onclick="navTo('a')" class="hoverthing_x002D_1" cx="425.99" cy="478.7" r="7"/>
 	</a>
 	<a xlink:href="#b" >
-		<circle id="ms-2" onclick="navTo('b')" class="hoverthing_x002D_1" cx="522.12" cy="448.82" r="7"/>
-	</a>
-	<a xlink:href="#i" >
-		<circle id="Rohtas_north" onclick="navTo('i')" class="hoverthing_x002D_1" cx="459.43" cy="426.42" r="7"/>
+		<circle id="pabbi" onclick="navTo('b')" class="hoverthing_x002D_1" cx="522.12" cy="448.82" r="7"/>
 	</a>
 	<a xlink:href="#c" >
-		<circle id="ms-3" onclick="navTo('c')" class="hoverthing_x002D_1" cx="469.72" cy="403.31" r="7"/>
+		<circle id="central_Rohtas" onclick="navTo('c')" class="hoverthing_x002D_1" cx="459.43" cy="426.42" r="7"/>
+	</a>
+	<a xlink:href="#north" >
+		<circle id="north_rohtas" onclick="navTo('x')" class="hoverthing_x002D_1" cx="469.72" cy="403.48" r="7"/>
+	</a>
+	<a xlink:href="#north" >
+		<circle id="_x23_10" onclick="navTo('x')" class="hoverthing_x002D_1" cx="453" cy="408.03" r="7"/>
+	</a>
+	<a xlink:href="#north" >
+		<circle id="_x23_6" onclick="navTo('x')" class="hoverthing_x002D_1" cx="480.59" cy="362.46" r="7"/>
+	</a>
+	<a xlink:href="#north" >
+		<circle id="_x23_8" onclick="navTo('x')" class="hoverthing_x002D_1" cx="527.17" cy="414.29" r="7"/>
+	</a>
+	<a xlink:href="#north" >
+		<circle id="_x23_9" onclick="navTo('x')" class="hoverthing_x002D_1" cx="498.28" cy="411.06" r="7"/>
+	</a>
+	<a xlink:href="#north" >
+		<circle id="_x23_7" onclick="navTo('x')" class="hoverthing_x002D_1" cx="515.08" cy="391.98" r="7"/>
+	</a>
+	<a xlink:href="#north" >
+		<circle id="_x23_1" onclick="navTo('x')" class="hoverthing_x002D_1" cx="382.53" cy="318.31" r="7"/>
+	</a>
+	<a xlink:href="#north" >
+		<circle id="_x23_2" onclick="navTo('x')" class="hoverthing_x002D_1" cx="400.63" cy="317.14" r="7"/>
+	</a>
+	<a xlink:href="#north" >
+		<circle id="_x23_3" onclick="navTo('x')" class="hoverthing_x002D_1" cx="391.98" cy="338.14" r="7"/>
+	</a>
+	<a xlink:href="#north" >
+		<circle id="_x23_4_1_" onclick="navTo('x')" class="hoverthing_x002D_1" cx="439.05" cy="395.61" r="7"/>
+	</a>
+	<a xlink:href="#north" >
+		<circle id="_x23_5" onclick="navTo('x')" class="hoverthing_x002D_1" cx="453.21" cy="382.74" r="7"/>
 	</a>
 	<g>
 	</g>
