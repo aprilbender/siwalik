@@ -213,6 +213,10 @@ Webflow.push(function() {
         hoverthings.push(t.className.baseVal);
         console.log("got hoverthing:", t.className.baseVal);
       });
+      $('circle[class^="hoverthing"]').each((_, t) => {
+        hoverthings.push(t.className.baseVal);
+        console.log("got hoverthing:", t.className.baseVal);
+      });
       console.log("got hoverthings:", hoverthings);
       loadTooltips(tooltips, hoverthings);
     });
