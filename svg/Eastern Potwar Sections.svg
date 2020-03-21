@@ -15823,7 +15823,7 @@ GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGP//Z" transform="mat
 	</a>
 	<a xlink:href="/sections/measured-sections#n" >
 		
-			<rect id="_x23_11" x="310.8" y="399.19" transform="matrix(0.4352 0.9003 -0.9003 0.4352 545.9728 -51.3786)" class="st0" width="6.27" height="20.54"/>
+			<rect id="_x23_11" x="310.8" y="399.19" onclick="navTo('n')" transform="matrix(0.4352 0.9003 -0.9003 0.4352 545.9728 -51.3786)" class="st0" width="6.27" height="20.54"/>
 	</a>
 	<a xlink:href="/sections/measured-sections#i" >
 		
