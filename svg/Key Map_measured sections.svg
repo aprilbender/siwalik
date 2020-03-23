@@ -4167,7 +4167,7 @@
 		<circle id="chambal" onclick="navTo('a')" class="hoverthing_x002D_1" cx="451.1" cy="487.92" r="7"/>
 	</a>
 	<a xlink:href="#o" >
-		<circle id="_x31_5" onclick="navTo('o')" class="hoverthing_x002D_1" cx="425.99" cy="478.7" r="7"/>
+		<circle id="pind" onclick="navTo('o')" class="hoverthing_x002D_1" cx="425.99" cy="478.7" r="7"/>
 	</a>
 	<a xlink:href="#b" >
 		<circle id="pabbi" onclick="navTo('b')" class="hoverthing_x002D_1" cx="522.12" cy="448.82" r="7"/>
@@ -4179,31 +4179,31 @@
 		<circle id="north_rohtas" onclick="navTo('n')" class="hoverthing_x002D_1" cx="469.72" cy="403.48" r="7"/>
 	</a>
 	<a xlink:href="#m" >
-		<circle id="_x31_0" onclick="navTo('m')" class="hoverthing_x002D_1" cx="453" cy="408.03" r="7"/>
+		<circle id="dina" onclick="navTo('m')" class="hoverthing_x002D_1" cx="453" cy="408.03" r="7"/>
 	</a>
 	<a xlink:href="#i" >
-		<circle id="_x36_" onclick="navTo('i')" class="hoverthing_x002D_1" cx="480.59" cy="362.46" r="7"/>
+		<circle id="rata" onclick="navTo('i')" class="hoverthing_x002D_1" cx="480.59" cy="362.46" r="7"/>
 	</a>
 	<a xlink:href="#k" >
-		<circle id="_x38_" onclick="navTo('k')" class="hoverthing_x002D_1" cx="527.17" cy="414.29" r="7"/>
+		<circle id="kas" onclick="navTo('k')" class="hoverthing_x002D_1" cx="527.17" cy="414.29" r="7"/>
 	</a>
 	<a xlink:href="#l" >
-		<circle id="_x39_" onclick="navTo('l')" class="hoverthing_x002D_1" cx="498.28" cy="411.06" r="7"/>
+		<circle id="jhel" onclick="navTo('l')" class="hoverthing_x002D_1" cx="498.28" cy="411.06" r="7"/>
 	</a>
 	<a xlink:href="#j" >
-		<circle id="_x37_" onclick="navTo('j')" class="hoverthing_x002D_1" cx="515.08" cy="391.98" r="7"/>
+		<circle id="mawa" onclick="navTo('j')" class="hoverthing_x002D_1" cx="515.08" cy="391.98" r="7"/>
 	</a>
 	<a xlink:href="#d" >
-		<circle id="_x31_" onclick="navTo('d')" class="hoverthing_x002D_1" cx="382.53" cy="318.31" r="7"/>
+		<circle id="shampur" onclick="navTo('d')" class="hoverthing_x002D_1" cx="382.53" cy="318.31" r="7"/>
 	</a>
 	<a xlink:href="#e" >
-		<circle id="_x32_" onclick="navTo('e')" class="hoverthing_x002D_1" cx="400.63" cy="317.14" r="7"/>
+		<circle id="dhok" onclick="navTo('e')" class="hoverthing_x002D_1" cx="400.63" cy="317.14" r="7"/>
 	</a>
 	<a xlink:href="#f" >
-		<circle id="_x33_" onclick="navTo('f')" class="hoverthing_x002D_1" cx="391.98" cy="338.14" r="7"/>
+		<circle id="soan" onclick="navTo('f')" class="hoverthing_x002D_1" cx="391.98" cy="338.14" r="7"/>
 	</a>
 	<a xlink:href="#g" >
-		<circle id="_x34_" onclick="navTo('g')" class="hoverthing_x002D_1" cx="439.05" cy="395.61" r="7"/>
+		<circle id="ganda" onclick="navTo('g')" class="hoverthing_x002D_1" cx="439.05" cy="395.61" r="7"/>
 	</a>
 	<a xlink:href="#h" >
 		<circle id="bhangala" onclick="navTo('h')" class="hoverthing_x002D_1" cx="453.21" cy="382.74" r="7"/>
