@@ -4176,7 +4176,7 @@
 		<circle id="rohtas" onclick="navTo('c')" class="hoverthing_x002D_1" cx="459.43" cy="426.42" r="7"/>
 	</a>
 	<a xlink:href="#n" >
-		<circle id="north_x5F_rohtas" onclick="navTo('n')" class="hoverthing_x002D_1" cx="469.72" cy="403.48" r="7"/>
+		<circle id="n_x5F_rohtas" onclick="navTo('n')" class="hoverthing_x002D_1" cx="469.72" cy="403.48" r="7"/>
 	</a>
 	<a xlink:href="#m" >
 		<circle id="dina" onclick="navTo('m')" class="hoverthing_x002D_1" cx="453" cy="408.03" r="7"/>
