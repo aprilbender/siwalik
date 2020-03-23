@@ -4206,7 +4206,7 @@
 		<circle id="_x34_" onclick="navTo('g')" class="hoverthing_x002D_1" cx="439.05" cy="395.61" r="7"/>
 	</a>
 	<a xlink:href="#h" >
-		<circle id="_x35_" onclick="navTo('h')" class="hoverthing_x002D_1" cx="453.21" cy="382.74" r="7"/>
+		<circle id="bhangala" onclick="navTo('h')" class="hoverthing_x002D_1" cx="453.21" cy="382.74" r="7"/>
 	</a>
 	<g>
 	</g>
