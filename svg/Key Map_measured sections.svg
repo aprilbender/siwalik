@@ -4173,7 +4173,7 @@
 		<circle id="pabbi" onclick="navTo('b')" class="hoverthing_x002D_1" cx="522.12" cy="448.82" r="7"/>
 	</a>
 	<a xlink:href="#c" >
-		<circle id="central_x5F_rohtas" onclick="navTo('c')" class="hoverthing_x002D_1" cx="459.43" cy="426.42" r="7"/>
+		<circle id="rohtas" onclick="navTo('c')" class="hoverthing_x002D_1" cx="459.43" cy="426.42" r="7"/>
 	</a>
 	<a xlink:href="#n" >
 		<circle id="north_x5F_rohtas" onclick="navTo('n')" class="hoverthing_x002D_1" cx="469.72" cy="403.48" r="7"/>
