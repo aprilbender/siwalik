@@ -3,7 +3,7 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 499 463" style="enable-background:new 0 0 499 463;" xml:space="preserve">
 <style type="text/css">
-	.hoverthing_x002D_2{opacity:0.8;fill:#9E1F63;}
+	.hoverthing_x002D_8{opacity:0.8;fill:#9E1F63;}
 </style>
 <g id="Image">
 	
@@ -15815,31 +15815,31 @@ GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGP//Z" transform="mat
 <g id="section_boxes">
 	<a xlink:href="/sections/measured-sections#h" >
 		
-			<rect id="bhangala" x="248.28" y="304.86" transform="matrix(-0.6272 0.7789 -0.7789 -0.6272 652.8742 313.466)" class="hoverthing_x002D_2" width="6.27" height="16.25"/>
+			<rect id="bhangala" x="248.28" y="304.86" transform="matrix(-0.6272 0.7789 -0.7789 -0.6272 652.8742 313.466)" class="hoverthing_x002D_8" width="6.27" height="16.25"/>
 	</a>
 	<a xlink:href="/sections/measured-sections#m" >
 		
-			<rect id="dina" x="274.28" y="356.86" transform="matrix(-0.6272 0.7789 -0.7789 -0.6272 735.6821 377.8298)" class="hoverthing_x002D_2" width="6.27" height="16.25"/>
+			<rect id="dina" x="274.28" y="356.86" transform="matrix(-0.6272 0.7789 -0.7789 -0.6272 735.6821 377.8298)" class="hoverthing_x002D_8" width="6.27" height="16.25"/>
 	</a>
 	<a xlink:href="/sections/measured-sections#n" >
 		
-			<rect id="n_x5F_rohtas" x="310.8" y="399.19" onclick="navTo('n')" transform="matrix(0.4352 0.9003 -0.9003 0.4352 545.9728 -51.3786)" class="hoverthing_x002D_2" width="6.27" height="20.54"/>
+			<rect id="n_x5F_rohtas" x="310.8" y="399.19" onclick="navTo('n')" transform="matrix(0.4352 0.9003 -0.9003 0.4352 545.9728 -51.3786)" class="hoverthing_x002D_8" width="6.27" height="20.54"/>
 	</a>
 	<a xlink:href="/sections/measured-sections#i" >
 		
-			<rect id="rata" x="314.28" y="215.86" onclick="navTo('a')" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 634.8331 447.9654)" class="hoverthing_x002D_2" width="6.27" height="16.25"/>
+			<rect id="rata" x="314.28" y="215.86" onclick="navTo('a')" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 634.8331 447.9654)" class="hoverthing_x002D_8" width="6.27" height="16.25"/>
 	</a>
 	<a xlink:href="/sections/measured-sections#j" >
 		
-			<rect id="mawa" x="389.28" y="278.86" transform="matrix(0.5478 0.8366 -0.8366 0.5478 417.5513 -198.5253)" class="hoverthing_x002D_2" width="6.27" height="16.25"/>
+			<rect id="mawa" x="389.28" y="278.86" transform="matrix(0.5478 0.8366 -0.8366 0.5478 417.5513 -198.5253)" class="hoverthing_x002D_8" width="6.27" height="16.25"/>
 	</a>
 	<a xlink:href="/sections/measured-sections#k" >
 		
-			<rect id="kas" x="424.28" y="335.86" transform="matrix(0.1692 0.9856 -0.9856 0.1692 694.101 -135.4841)" class="hoverthing_x002D_2" width="6.27" height="16.25"/>
+			<rect id="kas" x="424.28" y="335.86" transform="matrix(0.1692 0.9856 -0.9856 0.1692 694.101 -135.4841)" class="hoverthing_x002D_8" width="6.27" height="16.25"/>
 	</a>
 	<a xlink:href="/sections/measured-sections#g" >
 		
-			<rect id="ganda" x="267.94" y="322.5" transform="matrix(-0.6272 0.7789 -0.7789 -0.6272 697.2665 324.0604)" class="hoverthing_x002D_2" width="6.27" height="12.81"/>
+			<rect id="ganda" x="267.94" y="322.5" transform="matrix(-0.6272 0.7789 -0.7789 -0.6272 697.2665 324.0604)" class="hoverthing_x002D_8" width="6.27" height="12.81"/>
 	</a>
 	<g>
 	</g>
