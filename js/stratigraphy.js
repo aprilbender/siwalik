@@ -196,8 +196,22 @@ const showPano = (e, ident) => {
 // targetSelectors should be an array of selectors that the tooltips will be
 // attached to.
 const loadTooltips = (tooltips, targetSelectors) => {
+  console.log(
+    "apply tooltips",
+    tooltips,
+    "to target selectors:",
+    targetSelectors
+  );
   targetSelectors.forEach(selector => {
+    console.log(
+      "for selector",
+      selector,
+      "there are",
+      $(selector).length,
+      "elements"
+    );
     $(selector).each(function(_, elm) {
+      console.log("apply tooltip", tooltips[elm.id], "to element");
       $(elm).attr("data-tippy", tooltips[elm.id]);
     });
   });
@@ -206,8 +220,8 @@ const loadTooltips = (tooltips, targetSelectors) => {
 
 var Webflow = Webflow || []; // use existing definition if it exists, or start a new one
 Webflow.push(function() {
-  $(document).ready(() => {
-    if (svgUrl != null) {
+  if (svgUrl) {
+    $(document).ready(() => {
       loadLargeSvg("#ajaxContent", svgUrl, () => {
         let hoverthings = [];
         $('path[class^="hoverthing"]').each((_, t) => {
@@ -225,6 +239,6 @@ Webflow.push(function() {
         console.log("got hoverthings:", hoverthings);
         loadTooltips(tooltips, hoverthings);
       });
-    }
-  });
+    });
+  }
 });
