@@ -196,49 +196,29 @@ const showPano = (e, ident) => {
 // targetSelectors should be an array of selectors that the tooltips will be
 // attached to.
 const loadTooltips = (tooltips, targetSelectors) => {
-  console.log(
-    "apply tooltips",
-    tooltips,
-    "to target selectors:",
-    targetSelectors
-  );
   targetSelectors.forEach(selector => {
-    console.log(
-      "for selector",
-      selector,
-      "there are",
-      $(selector).length,
-      "elements"
-    );
     $(selector).each(function(_, elm) {
-      console.log("apply tooltip", tooltips[elm.id], "to element");
       $(elm).attr("data-tippy", tooltips[elm.id]);
     });
   });
   $.getScript("https://unpkg.com/tippy.js@3/dist/tippy.all.min.js");
 };
 
-if (svgUrl) {
-  var Webflow = Webflow || []; // use existing definition if it exists, or start a new one
-  Webflow.push(function() {
-    $(document).ready(() => {
-      loadLargeSvg("#ajaxContent", svgUrl, () => {
-        let hoverthings = [];
-        $('path[class^="hoverthing"]').each((_, t) => {
-          hoverthings.push(t.className.baseVal);
-          console.log("got hoverthing:", t.className.baseVal);
-        });
-        $('circle[class^="hoverthing"]').each((_, t) => {
-          hoverthings.push(t.className.baseVal);
-          console.log("got hoverthing:", t.className.baseVal);
-        });
-        $('rect[class^="hoverthing"]').each((_, t) => {
-          hoverthings.push(t.className.baseVal);
-          console.log("got hoverthing:", t.className.baseVal);
-        });
-        console.log("got hoverthings:", hoverthings);
-        loadTooltips(tooltips, hoverthings);
+var Webflow = Webflow || []; // use existing definition if it exists, or start a new one
+Webflow.push(function() {
+  $(document).ready(() => {
+    loadLargeSvg("#ajaxContent", svgUrl, () => {
+      let hoverthings = [];
+      $('path[class^="hoverthing"]').each((_, t) => {
+        hoverthings.push(t.className.baseVal);
       });
+      $('circle[class^="hoverthing"]').each((_, t) => {
+        hoverthings.push(t.className.baseVal);
+      });
+      $('rect[class^="hoverthing"]').each((_, t) => {
+        hoverthings.push(t.className.baseVal);
+      });
+      loadTooltips(tooltips, hoverthings);
     });
   });
-}
+});
