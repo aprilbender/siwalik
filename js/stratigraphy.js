@@ -218,9 +218,9 @@ const loadTooltips = (tooltips, targetSelectors) => {
   $.getScript("https://unpkg.com/tippy.js@3/dist/tippy.all.min.js");
 };
 
-var Webflow = Webflow || []; // use existing definition if it exists, or start a new one
-Webflow.push(function() {
-  if (svgUrl) {
+if (svgUrl) {
+  var Webflow = Webflow || []; // use existing definition if it exists, or start a new one
+  Webflow.push(function() {
     $(document).ready(() => {
       loadLargeSvg("#ajaxContent", svgUrl, () => {
         let hoverthings = [];
@@ -240,5 +240,5 @@ Webflow.push(function() {
         loadTooltips(tooltips, hoverthings);
       });
     });
-  }
-});
+  });
+}
