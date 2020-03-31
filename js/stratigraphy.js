@@ -207,22 +207,24 @@ const loadTooltips = (tooltips, targetSelectors) => {
 var Webflow = Webflow || []; // use existing definition if it exists, or start a new one
 Webflow.push(function() {
   $(document).ready(() => {
-    loadLargeSvg("#ajaxContent", svgUrl, () => {
-      let hoverthings = [];
-      $('path[class^="hoverthing"]').each((_, t) => {
-        hoverthings.push(t.className.baseVal);
-        console.log("got hoverthing:", t.className.baseVal);
+    if (svgUrl != null) {
+      loadLargeSvg("#ajaxContent", svgUrl, () => {
+        let hoverthings = [];
+        $('path[class^="hoverthing"]').each((_, t) => {
+          hoverthings.push(t.className.baseVal);
+          console.log("got hoverthing:", t.className.baseVal);
+        });
+        $('circle[class^="hoverthing"]').each((_, t) => {
+          hoverthings.push(t.className.baseVal);
+          console.log("got hoverthing:", t.className.baseVal);
+        });
+        $('rect[class^="hoverthing"]').each((_, t) => {
+          hoverthings.push(t.className.baseVal);
+          console.log("got hoverthing:", t.className.baseVal);
+        });
+        console.log("got hoverthings:", hoverthings);
+        loadTooltips(tooltips, hoverthings);
       });
-      $('circle[class^="hoverthing"]').each((_, t) => {
-        hoverthings.push(t.className.baseVal);
-        console.log("got hoverthing:", t.className.baseVal);
-      });
-      $('rect[class^="hoverthing"]').each((_, t) => {
-        hoverthings.push(t.className.baseVal);
-        console.log("got hoverthing:", t.className.baseVal);
-      });
-      console.log("got hoverthings:", hoverthings);
-      loadTooltips(tooltips, hoverthings);
-    });
+    }
   });
 });
