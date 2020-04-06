@@ -15827,11 +15827,11 @@ GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGP//Z" transform="mat
 	</a>
 	<a xlink:href="/sections/measured-sections#i" >
 		
-			<rect id="rata" x="314.28" y="215.86" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 634.8331 447.9654)" class="hoverthingQ" width="6.27" height="16.25"/>
+			<rect id="rata" x="312.28" y="214.86" onclick="window.location.href = '/sections/measured-sections#i'" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 630.8331 445.9654)" class="hoverthingQ" width="6.27" height="16.25"/>
 	</a>
 	<a xlink:href="/sections/measured-sections#j" >
 		
-			<rect id="mawa" x="389.28" y="278.86" transform="matrix(0.5478 0.8366 -0.8366 0.5478 417.5513 -198.5253)" class="hoverthingQ" width="6.27" height="16.25"/>
+			<rect id="mawa" x="390.28" y="278.86" onclick="window.location.href = '/sections/measured-sections#j'" transform="matrix(0.5478 0.8366 -0.8366 0.5478 418.0035 -199.362)" class="hoverthingQ" width="6.27" height="16.25"/>
 	</a>
 	<a xlink:href="/sections/measured-sections#k" >
 		
