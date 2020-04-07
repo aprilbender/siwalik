@@ -210,6 +210,20 @@ const addPrefixToTooltips = (tooltips, prefix) =>
     return acc;
   }, {});
 
+const assembleTooltipClasses = (targetClassFragment) => {
+  let hoverthings = [];
+  $(`path[class^="${targetClassFragment}"]`).each((_, t) => {
+    hoverthings.push(t.className.baseVal);
+  });
+  $(`circle[class^="${targetClassFragment}"]`).each((_, t) => {
+    hoverthings.push(t.className.baseVal);
+  });
+  $(`rect[class^="${targetClassFragment}"]`).each((_, t) => {
+    hoverthings.push(t.className.baseVal);
+  });
+  return hoverthings;
+};
+
 // The following commented-out code was intended to dynamically load an SVG into a DOM target.
 // This causes problems if there are not exactly one SVG to load. This should be handled
 // individually in an HTML Embed object in a webflow page instead.
