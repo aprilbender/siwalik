@@ -224,6 +224,25 @@ const assembleTooltipClasses = (targetClassFragment) => {
   return hoverthings;
 };
 
+const loadSvgWithTooltips = ({
+  svgUrl, // 'https://raw.githubusercontent.com/aprilbender/siwalik/master/svg/Potwar_Map_Compressed.svg'
+  tooltips, // { 'smap-1' : 'Some tooltip', 'smap-2' : 'Some other tooltip' }
+  filePrefix, // "Potwar_Map_svg__"
+  tooltipPrefix, // "hoverthing"
+  contentDivId, // "#ajaxContent"
+}) => {
+  const hoverthingTarget = filePrefix + tooltipPrefix;
+  const tooltipsNew = addPrefixToTooltips(tooltips, filePrefix);
+  Webflow.push(function () {
+    $(document).ready(() => {
+      loadLargeSvg(contentDivId, svgUrl, () => {
+        let hoverthings = assembleTooltipClasses(hoverthingTarget);
+        loadTooltips(tooltipsNew, hoverthings);
+      });
+    });
+  });
+};
+
 // The following commented-out code was intended to dynamically load an SVG into a DOM target.
 // This causes problems if there are not exactly one SVG to load. This should be handled
 // individually in an HTML Embed object in a webflow page instead.
