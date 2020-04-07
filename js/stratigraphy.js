@@ -5,7 +5,7 @@
 const POSITION_BEHAVIOR_CENTERED = "centered";
 const POSITION_BEHAVIOR_LEFT_RIGHT = "left/right";
 
-const registerClickToDismiss = cls => {
+const registerClickToDismiss = (cls) => {
   const selector = `.${cls}`;
   if ($(selector).length) {
     $(selector).on("click", () => hideHoverImage(selector));
@@ -80,7 +80,7 @@ const showHoverImage = (selector, e, positionBehavior) => {
   }, 0);
 };
 
-const hideHoverImage = selector => {
+const hideHoverImage = (selector) => {
   window.setTimeout(() => {
     $(selector).removeClass("strat-show-img");
     $(selector).removeClass("strat-hover-img-fullscreen");
@@ -89,7 +89,7 @@ const hideHoverImage = selector => {
   }, 0);
 };
 
-const domSubtreeEvent = widthStyle => (mutationsList, observer) => {
+const domSubtreeEvent = (widthStyle) => (mutationsList, observer) => {
   console.log("domSubtreeEvent invoked with:");
   console.log("mutationsList:", mutationsList);
   console.log("observer", observer);
@@ -124,20 +124,20 @@ const updateLargeSvgSize = () => {
 const loadLargeSvg = (targetSelector, svgUrl, successCallback) => {
   $.ajax({
     url: svgUrl,
-    success: function(data) {
+    success: function (data) {
       $(targetSelector).replaceWith(data);
       window.setTimeout(updateLargeSvgSize, 0);
       if (successCallback) {
         successCallback();
       }
     },
-    cache: false
+    cache: false,
   });
 };
 
 // navTo is for internal linking from SVGs. This is to sidestep a limitation in some
 // browsers like Safari.
-const navTo = id => {
+const navTo = (id) => {
   $("#" + id)[0].scrollIntoView();
 };
 
@@ -196,29 +196,39 @@ const showPano = (e, ident) => {
 // targetSelectors should be an array of selectors that the tooltips will be
 // attached to.
 const loadTooltips = (tooltips, targetSelectors) => {
-  targetSelectors.forEach(selector => {
-    $(selector).each(function(_, elm) {
+  targetSelectors.forEach((selector) => {
+    $(selector).each(function (_, elm) {
       $(elm).attr("data-tippy", tooltips[elm.id]);
     });
   });
   $.getScript("https://unpkg.com/tippy.js@3/dist/tippy.all.min.js");
 };
 
-var Webflow = Webflow || []; // use existing definition if it exists, or start a new one
-Webflow.push(function() {
-  $(document).ready(() => {
-    loadLargeSvg("#ajaxContent", svgUrl, () => {
-      let hoverthings = [];
-      $('path[class^="hoverthing"]').each((_, t) => {
-        hoverthings.push(t.className.baseVal);
-      });
-      $('circle[class^="hoverthing"]').each((_, t) => {
-        hoverthings.push(t.className.baseVal);
-      });
-      $('rect[class^="hoverthing"]').each((_, t) => {
-        hoverthings.push(t.className.baseVal);
-      });
-      loadTooltips(tooltips, hoverthings);
-    });
-  });
-});
+const addPrefixToTooltips = (tooltips, prefix) =>
+  Object.keys(tooltips).reduce((acc, val) => {
+    acc[prefix + val] = tooltips[val];
+    return acc;
+  }, {});
+
+// The following commented-out code was intended to dynamically load an SVG into a DOM target.
+// This causes problems if there are not exactly one SVG to load. This should be handled
+// individually in an HTML Embed object in a webflow page instead.
+//
+// var Webflow = Webflow || []; // use existing definition if it exists, or start a new one
+// Webflow.push(function() {
+//   $(document).ready(() => {
+//     loadLargeSvg("#ajaxContent", svgUrl, () => {
+//       let hoverthings = [];
+//       $('path[class^="hoverthing"]').each((_, t) => {
+//         hoverthings.push(t.className.baseVal);
+//       });
+//       $('circle[class^="hoverthing"]').each((_, t) => {
+//         hoverthings.push(t.className.baseVal);
+//       });
+//       $('rect[class^="hoverthing"]').each((_, t) => {
+//         hoverthings.push(t.className.baseVal);
+//       });
+//       loadTooltips(tooltips, hoverthings);
+//     });
+//   });
+// });
