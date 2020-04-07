@@ -213,13 +213,13 @@ const addPrefixToTooltips = (tooltips, prefix) =>
 const assembleTooltipClasses = (targetClassFragment) => {
   let hoverthings = [];
   $(`path[class^="${targetClassFragment}"]`).each((_, t) => {
-    hoverthings.push(t.className.baseVal);
+    hoverthings.push("." + t.className.baseVal);
   });
   $(`circle[class^="${targetClassFragment}"]`).each((_, t) => {
-    hoverthings.push(t.className.baseVal);
+    hoverthings.push("." + t.className.baseVal);
   });
   $(`rect[class^="${targetClassFragment}"]`).each((_, t) => {
-    hoverthings.push(t.className.baseVal);
+    hoverthings.push("." + t.className.baseVal);
   });
   return hoverthings;
 };
