@@ -182,6 +182,14 @@ path[class*="hoverthing"]:hover {
   opacity: 1;
 }
 
+circle[class*="hoverthing"]:hover {
+  opacity: 1;
+}
+
+rect[class*="hoverthing"]:hover {
+  opacity: 1;
+}
+
 .w-container {
   max-width: 1200px;
 }
