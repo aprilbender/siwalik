@@ -178,6 +178,10 @@ path[id*="smap"]:hover {
   opacity: 1;
 }
 
+path[class*="hoverthing"]:hover {
+  opacity: 1;
+}
+
 .w-container {
   max-width: 1200px;
 }
