@@ -14,8 +14,7 @@
     "compress:chambal_sections": "npx svgo 'svg/Chambal Sections.svg' -o 'svg/Chambal_Sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:north_rohtas_sections": "npx svgo 'svg/North Rohtas Sections.svg' -o 'svg/_Sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:mirpur_sections": "npx svgo 'svg/New Mirpur Sections.svg' -o 'svg/New Mirpur_Sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
-    "compress:strat_chart": "npx svgo 'Strat Chart.svg' -o 'Strat_Chart_Compressed.svg'",
-    "compress:key_map": "npx svgo 'svg/Key Map.svg' -o 'svg/Key_Map_Compressed.svg'",
+    "compress:kashmir": "npx svgo 'svg/Kashmir Map.svg' -o 'svg/Kashmir_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:index": "npx svgo 'svg/Index Map.svg' -o 'svg/Index_Map_Compressed.svg'"
   },
   "repository": {
