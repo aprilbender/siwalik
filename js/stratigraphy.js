@@ -128,7 +128,6 @@ const loadLargeSvg = (targetSelector, svgUrl, successCallback) => {
       let targetSelectorWithoutSharp = targetSelector.replace('#', '');
       let ajaxContent = document.getElementById(targetSelectorWithoutSharp);
       let ajaxContentParent = ajaxContent.parentNode;
-      // $(targetSelector).replaceWith(data);
       ajaxContentParent.replaceChild(data.documentElement, ajaxContent);
       window.setTimeout(updateLargeSvgSize, 0);
       if (successCallback) {
