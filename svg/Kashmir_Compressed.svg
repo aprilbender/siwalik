@@ -77,23 +77,23 @@
         </g>
     </g>
     <g id="Kashmir_Map_svg__blowups">
-        <path id="Kashmir_Map_svg__shaliganga" class="Kashmir_Map_svg__st10" d="M268.4 311.75h25.1v17.88h-25.1z"/>
-        <path id="Kashmir_Map_svg__romushi" class="Kashmir_Map_svg__st11" d="M297.02 360.63h25.1v17.88h-25.1z"/>
-        <path id="Kashmir_Map_svg__hirpur" class="Kashmir_Map_svg__st12" d="M310.23 414.95h20.7v13.65h-20.7z"/>
-        <path id="Kashmir_Map_svg__baramula" class="Kashmir_Map_svg__st13" d="M160.07 195.21h11.01v10.57h-11.01z"/>
+        <path id="Kashmir_Map_svg__shaliganga_x5F_box" class="Kashmir_Map_svg__st10" d="M268.4 311.75h25.1v17.88h-25.1z"/>
+        <path id="Kashmir_Map_svg__romushi_x5F_box" class="Kashmir_Map_svg__st11" d="M297.02 360.63h25.1v17.88h-25.1z"/>
+        <path id="Kashmir_Map_svg__hirpur_x5F_box" class="Kashmir_Map_svg__st12" d="M310.23 414.95h20.7v13.65h-20.7z"/>
+        <path id="Kashmir_Map_svg__baramula_x5F_box" class="Kashmir_Map_svg__st13" d="M160.07 195.21h11.01v10.57h-11.01z"/>
     </g>
     <g id="Kashmir_Map_svg__flags">
         <a xlink:href="#Kashmir_Map_svg__b">
-            <path id="Kashmir_Map_svg__shaliganga-flag" onclick="navTo('g')" class="Kashmir_Map_svg__hoverthing7" d="M261.48 317l-.66-.01c-2.03-.03-3.69 1.82-3.71 4.13v.36c-.02 2.28 1.58 4.15 3.58 4.17l6.83.09.09-8.66-6.13-.08"/>
+            <path id="Kashmir_Map_svg__shaliganga" onclick="navTo('g')" class="Kashmir_Map_svg__hoverthing7" d="M261.48 317l-.66-.01c-2.03-.03-3.69 1.82-3.71 4.13v.36c-.02 2.28 1.58 4.15 3.58 4.17l6.83.09.09-8.66-6.13-.08"/>
         </a>
         <a xlink:href="#Kashmir_Map_svg__c">
-            <path id="Kashmir_Map_svg__romushi-flag" onclick="navTo('g')" class="Kashmir_Map_svg__hoverthing5" d="M289.94 365.47l-.66-.01c-2.03-.03-3.69 1.82-3.71 4.13v.36c-.02 2.28 1.58 4.15 3.58 4.17l6.83.09.09-8.66-6.13-.08"/>
+            <path id="Kashmir_Map_svg__romushi" onclick="navTo('g')" class="Kashmir_Map_svg__hoverthing5" d="M289.94 365.47l-.66-.01c-2.03-.03-3.69 1.82-3.71 4.13v.36c-.02 2.28 1.58 4.15 3.58 4.17l6.83.09.09-8.66-6.13-.08"/>
         </a>
         <a xlink:href="#Kashmir_Map_svg__d">
-            <path id="Kashmir_Map_svg__hirpur-flag" onclick="navTo('g')" class="Kashmir_Map_svg__hoverthing6" d="M303.27 417.88l-.66-.01c-2.03-.03-3.69 1.82-3.71 4.13v.36c-.02 2.28 1.58 4.15 3.58 4.17l6.83.09.09-8.66-6.13-.08"/>
+            <path id="Kashmir_Map_svg__hirpur" onclick="navTo('g')" class="Kashmir_Map_svg__hoverthing6" d="M303.27 417.88l-.66-.01c-2.03-.03-3.69 1.82-3.71 4.13v.36c-.02 2.28 1.58 4.15 3.58 4.17l6.83.09.09-8.66-6.13-.08"/>
         </a>
         <a xlink:href="#Kashmir_Map_svg__a">
-            <path id="Kashmir_Map_svg__baramula-flag" onclick="navTo('g')" class="Kashmir_Map_svg__hoverthing8" d="M177.25 198.1l.66-.01c2.03-.03 3.69 1.82 3.71 4.13v.36c.02 2.28-1.58 4.15-3.58 4.17l-6.83.09-.09-8.66 6.13-.08"/>
+            <path id="Kashmir_Map_svg__baramula" onclick="navTo('g')" class="Kashmir_Map_svg__hoverthing8" d="M177.25 198.1l.66-.01c2.03-.03 3.69 1.82 3.71 4.13v.36c.02 2.28-1.58 4.15-3.58 4.17l-6.83.09-.09-8.66 6.13-.08"/>
         </a>
     </g>
 </svg>

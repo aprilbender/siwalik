@@ -943,27 +943,27 @@
 	</g>
 </g>
 <g id="blowups">
-	<rect id="shaliganga" x="268.4" y="311.75" class="st10" width="25.1" height="17.88"/>
-	<rect id="romushi" x="297.02" y="360.63" class="st11" width="25.1" height="17.88"/>
-	<rect id="hirpur" x="310.23" y="414.95" class="st12" width="20.7" height="13.65"/>
-	<rect id="baramula" x="160.07" y="195.21" class="st13" width="11.01" height="10.57"/>
+	<rect id="shaliganga_x5F_box" x="268.4" y="311.75" class="st10" width="25.1" height="17.88"/>
+	<rect id="romushi_x5F_box" x="297.02" y="360.63" class="st11" width="25.1" height="17.88"/>
+	<rect id="hirpur_x5F_box" x="310.23" y="414.95" class="st12" width="20.7" height="13.65"/>
+	<rect id="baramula_x5F_box" x="160.07" y="195.21" class="st13" width="11.01" height="10.57"/>
 </g>
 <g id="flags">
 	<a xlink:href="#b" >
-		<path id="shaliganga-flag" onclick="navTo('g')" class="hoverthing7" d="M261.48,317l-0.66-0.01c-2.03-0.03-3.69,1.82-3.71,4.13
-			l0,0.36c-0.02,2.28,1.58,4.15,3.58,4.17l6.83,0.09l0.09-8.66L261.48,317"/>
+		<path id="shaliganga" onclick="navTo('g')" class="hoverthing7" d="M261.48,317l-0.66-0.01c-2.03-0.03-3.69,1.82-3.71,4.13l0,0.36
+			c-0.02,2.28,1.58,4.15,3.58,4.17l6.83,0.09l0.09-8.66L261.48,317"/>
 	</a>
 	<a xlink:href="#c" >
-		<path id="romushi-flag" onclick="navTo('g')" class="hoverthing5" d="M289.94,365.47l-0.66-0.01c-2.03-0.03-3.69,1.82-3.71,4.13
-			l0,0.36c-0.02,2.28,1.58,4.15,3.58,4.17l6.83,0.09l0.09-8.66L289.94,365.47"/>
+		<path id="romushi" onclick="navTo('g')" class="hoverthing5" d="M289.94,365.47l-0.66-0.01c-2.03-0.03-3.69,1.82-3.71,4.13l0,0.36
+			c-0.02,2.28,1.58,4.15,3.58,4.17l6.83,0.09l0.09-8.66L289.94,365.47"/>
 	</a>
 	<a xlink:href="#d" >
-		<path id="hirpur-flag" onclick="navTo('g')" class="hoverthing6" d="M303.27,417.88l-0.66-0.01c-2.03-0.03-3.69,1.82-3.71,4.13
-			l0,0.36c-0.02,2.28,1.58,4.15,3.58,4.17l6.83,0.09l0.09-8.66L303.27,417.88"/>
+		<path id="hirpur" onclick="navTo('g')" class="hoverthing6" d="M303.27,417.88l-0.66-0.01c-2.03-0.03-3.69,1.82-3.71,4.13l0,0.36
+			c-0.02,2.28,1.58,4.15,3.58,4.17l6.83,0.09l0.09-8.66L303.27,417.88"/>
 	</a>
 	<a xlink:href="#a" >
-		<path id="baramula-flag" onclick="navTo('g')" class="hoverthing8" d="M177.25,198.1l0.66-0.01c2.03-0.03,3.69,1.82,3.71,4.13
-			l0,0.36c0.02,2.28-1.58,4.15-3.58,4.17l-6.83,0.09l-0.09-8.66L177.25,198.1"/>
+		<path id="baramula" onclick="navTo('g')" class="hoverthing8" d="M177.25,198.1l0.66-0.01c2.03-0.03,3.69,1.82,3.71,4.13l0,0.36
+			c0.02,2.28-1.58,4.15-3.58,4.17l-6.83,0.09l-0.09-8.66L177.25,198.1"/>
 	</a>
 	<g>
 	</g>
