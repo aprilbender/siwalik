@@ -1854,7 +1854,7 @@
 </g>
 <g id="flags">
 	<a xlink:href="#j" >
-		<path id="khusulgar" onclick="navTo('b')" class="hoverthing2_x0020_" d="M314.81,361.02l1.87-0.02
+		<path id="khusulgar" onclick="navTo('j')" class="hoverthing2_x0020_" d="M314.81,361.02l1.87-0.02
 			c5.79-0.08,10.53,5.21,10.6,11.8l0.01,1.02c0.07,6.51-4.51,11.85-10.23,11.92l-19.52,0.25l-0.25-24.75L314.81,361.02"/>
 	</a>
 	<a xlink:href="#g" >
@@ -1866,7 +1866,7 @@
 			l-0.01,1.02c-0.07,6.51,4.51,11.85,10.23,11.92l19.52,0.25l0.25-24.75L163.78,567.02"/>
 	</a>
 	<a xlink:href="#l" >
-		<path id="dhulian" onclick="navTo('d')" class="hoverthing3" d="M545.8,445.06l-0.02-1.87c-0.08-5.79,5.19-10.51,11.76-10.54
+		<path id="dhulian" onclick="navTo('l')" class="hoverthing3" d="M545.8,445.06l-0.02-1.87c-0.08-5.79,5.19-10.51,11.76-10.54
 			l1.02,0c6.49-0.03,11.82,4.58,11.89,10.3l0.26,19.54l-24.67,0.12L545.8,445.06"/>
 	</a>
 	<a xlink:href="#i" >
