@@ -888,8 +888,8 @@
 	</a>
 </g>
 <g id="blowups">
-	<rect id="dag_x5F_box" x="223.92" y="437.7" class="st13" width="21.71" height="19.55"/>
-	<rect id="garhi_x5F_box" x="186.11" y="462.65" class="st14" width="14.09" height="17.39"/>
+	<rect id="box2" x="223.92" y="437.7" class="st13" width="21.71" height="19.55"/>
+	<rect id="box1" x="186.11" y="462.65" class="st14" width="14.09" height="17.39"/>
 	<g>
 	</g>
 	<g>
