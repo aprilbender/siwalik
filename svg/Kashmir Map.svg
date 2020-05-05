@@ -4,6 +4,10 @@
 	 viewBox="0 0 651.62 568.79" style="enable-background:new 0 0 651.62 568.79;" xml:space="preserve">
 <style type="text/css">
 	.Arched_x0020_Green{fill:url(#SVGID_1_);stroke:#FFFFFF;stroke-width:0.25;stroke-miterlimit:1;}
+	.hoverthing7{opacity:0.8;fill:#079247;}
+	.hoverthing8{opacity:0.8;fill:#EC008C;}
+	.hoverthing5{opacity:0.8;fill:#F15A26;}
+	.hoverthing6{opacity:0.8;fill:#662F90;}
 	.st0{fill:#D1BD40;stroke:#000000;stroke-width:2;}
 	.st1{fill:#F9ED32;stroke:#000000;stroke-width:0.5;}
 	.st2{fill:#FCF8C1;stroke:#000000;stroke-width:0.5;}
@@ -18,10 +22,6 @@
 	.st11{fill:none;stroke:#F15A26;stroke-width:2;stroke-miterlimit:10;}
 	.st12{fill:none;stroke:#662F90;stroke-width:2;stroke-miterlimit:10;}
 	.st13{fill:none;stroke:#EC008C;stroke-width:2;stroke-miterlimit:10;}
-	.st14{opacity:0.7;fill:#079247;}
-	.st15{opacity:0.7;fill:#F15A26;}
-	.st16{opacity:0.7;fill:#662F90;}
-	.st17{opacity:0.7;fill:#EC008C;}
 </style>
 <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-7.0271" y1="771.0679" x2="-6.32" y2="770.3608">
 	<stop  offset="0" style="stop-color:#20AC4B"/>
@@ -950,19 +950,19 @@
 </g>
 <g id="flags">
 	<a xlink:href="#b" >
-		<path id="shaliganga" onclick="navTo('b')" class="st14" d="M261.48,317l-0.66-0.01c-2.03-0.03-3.69,1.82-3.71,4.13l0,0.36
+		<path id="shaliganga" onclick="navTo('b')" class="hoverthing7" d="M261.48,317l-0.66-0.01c-2.03-0.03-3.69,1.82-3.71,4.13l0,0.36
 			c-0.02,2.28,1.58,4.15,3.58,4.17l6.83,0.09l0.09-8.66L261.48,317"/>
 	</a>
 	<a xlink:href="#c" >
-		<path id="romushi" onclick="navTo('c')" class="st15" d="M289.94,365.47l-0.66-0.01c-2.03-0.03-3.69,1.82-3.71,4.13l0,0.36
+		<path id="romushi" onclick="navTo('c')" class="hoverthing5" d="M289.94,365.47l-0.66-0.01c-2.03-0.03-3.69,1.82-3.71,4.13l0,0.36
 			c-0.02,2.28,1.58,4.15,3.58,4.17l6.83,0.09l0.09-8.66L289.94,365.47"/>
 	</a>
 	<a xlink:href="#d" >
-		<path id="hirpur" onclick="navTo('d')" class="st16" d="M303.27,417.88l-0.66-0.01c-2.03-0.03-3.69,1.82-3.71,4.13l0,0.36
+		<path id="hirpur" onclick="navTo('d')" class="hoverthing6" d="M303.27,417.88l-0.66-0.01c-2.03-0.03-3.69,1.82-3.71,4.13l0,0.36
 			c-0.02,2.28,1.58,4.15,3.58,4.17l6.83,0.09l0.09-8.66L303.27,417.88"/>
 	</a>
 	<a xlink:href="#a" >
-		<path id="baramula" onclick="navTo('a')" class="st17" d="M177.25,198.1l0.66-0.01c2.03-0.03,3.69,1.82,3.71,4.13l0,0.36
+		<path id="baramula" onclick="navTo('a')" class="hoverthing8" d="M177.25,198.1l0.66-0.01c2.03-0.03,3.69,1.82,3.71,4.13l0,0.36
 			c0.02,2.28-1.58,4.15-3.58,4.17l-6.83,0.09l-0.09-8.66L177.25,198.1"/>
 	</a>
 	<g>
