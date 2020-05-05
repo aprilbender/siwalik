@@ -1854,7 +1854,7 @@
 </g>
 <g id="flags">
 	<a xlink:href="#j" >
-		<path id="smap-1" onclick="navTo('b')" class="hoverthing2_x0020_" d="M314.81,361.02l1.87-0.02c5.79-0.08,10.53,5.21,10.6,11.8
+		<path id="smap-1" onclick="navTo('j')" class="hoverthing2_x0020_" d="M314.81,361.02l1.87-0.02c5.79-0.08,10.53,5.21,10.6,11.8
 			l0.01,1.02c0.07,6.51-4.51,11.85-10.23,11.92l-19.52,0.25l-0.25-24.75L314.81,361.02"/>
 	</a>
 	<a xlink:href="#g" >
