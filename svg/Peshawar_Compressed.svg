@@ -62,10 +62,10 @@
     </g>
     <g id="Peshawar_Map_svg__flags">
         <a xlink:href="#Peshawar_Map_svg__b">
-            <path id="Peshawar_Map_svg__dag_x5F_1_x5F_" onclick="navTo('b')" class="Peshawar_Map_svg__hoverthing7" d="M217.26 439.7l-.66-.01c-2.03-.03-3.69 1.82-3.71 4.13v.36c-.02 2.28 1.58 4.15 3.58 4.17l6.83.09.09-8.66-6.13-.08"/>
+            <path id="Peshawar_Map_svg__dag" onclick="navTo('b')" class="Peshawar_Map_svg__hoverthing7" d="M217.26 439.7l-.66-.01c-2.03-.03-3.69 1.82-3.71 4.13v.36c-.02 2.28 1.58 4.15 3.58 4.17l6.83.09.09-8.66-6.13-.08"/>
         </a>
         <a xlink:href="#Peshawar_Map_svg__a">
-            <path id="Peshawar_Map_svg__garhi_x5F_1_x5F_" onclick="navTo('a')" class="Peshawar_Map_svg__hoverthing5" d="M179.14 464.25l-.66-.01c-2.03-.03-3.69 1.82-3.71 4.13v.36c-.02 2.28 1.58 4.15 3.58 4.17l6.83.09.09-8.66-6.13-.08"/>
+            <path id="Peshawar_Map_svg__garhi" onclick="navTo('a')" class="Peshawar_Map_svg__hoverthing5" d="M179.14 464.25l-.66-.01c-2.03-.03-3.69 1.82-3.71 4.13v.36c-.02 2.28 1.58 4.15 3.58 4.17l6.83.09.09-8.66-6.13-.08"/>
         </a>
     </g>
     <g id="Peshawar_Map_svg__blowups">
