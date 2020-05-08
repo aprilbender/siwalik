@@ -10,6 +10,7 @@
     "compress:potwar": "npx svgo 'svg/Potwar Map.svg' -o 'svg/Potwar_Map_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:potwar_east": "npx svgo 'svg/East Potwar Key.svg' -o 'svg/east_potwar_key_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:soan": "npx svgo 'svg/Soan Sections.svg' -o 'svg/Soan_Sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
+    "compress:key_map_sections": "npx svgo 'svg/Key Map_measured sections.svg' -o 'svg/Key_Map_Measured_Sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:eastern_potwar_sections": "npx svgo 'svg/Eastern Potwar Sections.svg' -o 'svg/Eastern_Potwar_Sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:basawa_sections": "npx svgo 'svg/Basawa Sections.svg' -o 'svg/Basawa_Sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:chambal_sections": "npx svgo 'svg/Chambal Sections.svg' -o 'svg/Chambal_Sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
