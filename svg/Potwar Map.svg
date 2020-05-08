@@ -23,11 +23,12 @@
 	.st12{fill:none;stroke:#231F20;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:4;}
 	.st13{display:none;}
 	.st14{display:inline;fill:none;stroke:#000000;stroke-miterlimit:10;}
-	.st15{fill:none;stroke:#7AC943;stroke-width:5;stroke-miterlimit:10;}
-	.st16{fill:none;stroke:#FF931E;stroke-width:5;stroke-miterlimit:10;}
-	.st17{fill:none;stroke:#009245;stroke-width:5;stroke-miterlimit:10;}
+	.st15{display:inline;fill:none;stroke:#009245;stroke-width:5;stroke-miterlimit:10;}
+	.st16{fill:none;stroke:#7AC943;stroke-width:5;stroke-miterlimit:10;}
+	.st17{fill:none;stroke:#FF931E;stroke-width:5;stroke-miterlimit:10;}
 	.st18{fill:none;stroke:#F15A24;stroke-width:5;stroke-miterlimit:10;}
 	.st19{fill:none;stroke:#9E1F63;stroke-width:5;stroke-miterlimit:10;}
+	.st20{fill:none;stroke:#009245;stroke-width:5;stroke-miterlimit:10;}
 </style>
 <g id="Layer_1">
 </g>
@@ -1841,25 +1842,26 @@
 		530.98,881.44 497.32,891.27 459.45,893.31 	"/>
 	<polygon class="st14" points="64.04,712.33 64.04,742.33 141.8,745.15 144.57,672.49 139.66,672.49 127.1,679.15 118.38,695.41 
 		90.4,702.64 77.55,712.13 68.42,714.9 	"/>
+	<polygon class="st15" points="807.42,248.06 1235.71,249.57 1233.77,392.98 1339.25,394.36 1338.55,545.33 1374.42,591.24 
+		1374.42,762.1 1217.75,761.03 1217.75,769.02 1098.65,769.02 1098.65,714.64 845.09,709.71 846.74,513.13 806.53,512.22 	"/>
 </g>
 <g id="blowups">
-	<polygon id="_x3C_Rectangle_x3E_" class="st15" points="377.9,468.69 377.9,485.31 411.78,486.91 411.78,600 458.26,601.18 
+	<polygon id="_x3C_Rectangle_x3E_" class="st16" points="377.9,468.69 377.9,485.31 411.78,486.91 411.78,600 458.26,601.18 
 		644.85,542.98 642.96,463.94 	"/>
-	<polygon class="st16" points="185.08,458.94 423.2,458.94 422.11,613.66 183.09,612.54 	"/>
-	<polygon class="st17" points="807.42,248.06 1235.71,249.57 1233.77,392.98 1339.25,394.36 1338.55,545.33 1374.42,591.24 
-		1374.42,762.1 1217.75,761.03 1217.75,769.02 1098.65,769.02 1098.65,714.64 845.09,709.71 846.74,513.13 806.53,512.22 	"/>
+	<polygon class="st17" points="185.08,458.94 423.2,458.94 422.11,613.66 183.09,612.54 	"/>
 	<polygon class="st18" points="1153.5,912.5 1087.5,941.5 972.5,906.5 335.55,1116.49 127.5,1018.5 40.13,688.82 112.5,669.5 
 		199.5,900.5 811.5,750.5 1019.5,783.5 1145.5,825.5 	"/>
 	<rect id="khushalgar_jamat" x="186.5" y="350.5" class="st19" width="109" height="169"/>
+	<rect x="905.5" y="254.5" class="st20" width="468" height="679"/>
 </g>
 <g id="flags">
 	<a xlink:href="#j" >
 		<path id="khushulgar" onclick="navTo('j')" class="hoverthing2_x0020_" d="M314.81,361.02l1.87-0.02
 			c5.79-0.08,10.53,5.21,10.6,11.8l0.01,1.02c0.07,6.51-4.51,11.85-10.23,11.92l-19.52,0.25l-0.25-24.75L314.81,361.02"/>
 	</a>
-	<a xlink:href="#g" >
-		<path id="smap-7" onclick="navTo('g')" class="hoverthing7" d="M825.78,671.02l-1.87-0.02c-5.79-0.08-10.53,5.21-10.6,11.8
-			l-0.01,1.02c-0.07,6.51,4.51,11.85,10.23,11.92l19.52,0.25l0.25-24.75L825.78,671.02"/>
+	<a xlink:href="east-potwar-geologic-maps#key-map" >
+		<path id="smap-7" class="hoverthing7" d="M885.78,671.02l-1.87-0.02c-5.79-0.08-10.53,5.21-10.6,11.8l-0.01,1.02
+			c-0.07,6.51,4.51,11.85,10.23,11.92l19.52,0.25l0.25-24.75L885.78,671.02"/>
 	</a>
 	<a xlink:href="#h" >
 		<path id="smap-8" onclick="navTo('h')" class="hoverthing4" d="M163.78,567.02l-1.87-0.02c-5.79-0.08-10.53,5.21-10.6,11.8
