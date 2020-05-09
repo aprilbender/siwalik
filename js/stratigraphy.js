@@ -125,7 +125,7 @@ const loadLargeSvg = (targetSelector, svgUrl, successCallback) => {
   $.ajax({
     url: svgUrl,
     success: function (data) {
-      let targetSelectorWithoutSharp = targetSelector.replace('#', '');
+      let targetSelectorWithoutSharp = targetSelector.replace("#", "");
       let ajaxContent = document.getElementById(targetSelectorWithoutSharp);
       let ajaxContentParent = ajaxContent.parentNode;
       ajaxContentParent.replaceChild(data.documentElement, ajaxContent);
@@ -198,10 +198,19 @@ const showPano = (e, ident) => {
 //
 // targetSelectors should be an array of selectors that the tooltips will be
 // attached to.
-const loadTooltips = (tooltips, targetSelectors) => {
+const loadTooltips = (tooltips, targetSelectors, updateLink, tooltipPrefix) => {
   targetSelectors.forEach((selector) => {
     $(selector).each(function (_, elm) {
       $(elm).attr("data-tippy", tooltips[elm.id]);
+      if (updateLink) {
+        // the <a href> above (if it is indeed that) might have had its target updated by the svgo compress
+        // process. This screws up local linking. So we have to revert just those elements back to the original.
+        const cl = $(elm).parent().attr("xlink:href");
+        if (cl) {
+          const ncl = cl.replace(tooltipPrefix, "");
+          $(elm).parent().attr("xlink:href", ncl);
+        }
+      }
     });
   });
   $.getScript("https://unpkg.com/tippy.js@3/dist/tippy.all.min.js");
@@ -233,6 +242,7 @@ const loadSvgWithTooltips = ({
   filePrefix, // "Potwar_Map_svg__"
   tooltipPrefix, // "hoverthing"
   contentDivId, // "#ajaxContent"
+  updateLink, // true or false
 }) => {
   const hoverthingTarget = filePrefix + tooltipPrefix;
   const tooltipsNew = addPrefixToTooltips(tooltips, filePrefix);
@@ -240,7 +250,7 @@ const loadSvgWithTooltips = ({
     $(document).ready(() => {
       loadLargeSvg(contentDivId, svgUrl, () => {
         let hoverthings = assembleTooltipClasses(hoverthingTarget);
-        loadTooltips(tooltipsNew, hoverthings);
+        loadTooltips(tooltipsNew, hoverthings, updateLink, tooltipPrefix);
       });
     });
   });
