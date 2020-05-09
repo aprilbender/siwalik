@@ -125,7 +125,7 @@ const loadLargeSvg = (targetSelector, svgUrl, successCallback) => {
   $.ajax({
     url: svgUrl,
     success: function (data) {
-      let targetSelectorWithoutSharp = targetSelector.replace("#", "");
+      let targetSelectorWithoutSharp = targetSelector.replace('#', '');
       let ajaxContent = document.getElementById(targetSelectorWithoutSharp);
       let ajaxContentParent = ajaxContent.parentNode;
       ajaxContentParent.replaceChild(data.documentElement, ajaxContent);
@@ -198,17 +198,10 @@ const showPano = (e, ident) => {
 //
 // targetSelectors should be an array of selectors that the tooltips will be
 // attached to.
-const loadTooltips = (tooltips, targetSelectors, prefixNavTo) => {
+const loadTooltips = (tooltips, targetSelectors) => {
   targetSelectors.forEach((selector) => {
     $(selector).each(function (_, elm) {
       $(elm).attr("data-tippy", tooltips[elm.id]);
-      if (
-        prefixNavTo &&
-        $(elm).attr("onclick") &&
-        $(elm).attr("onclick").startsWith("navTo(")
-      ) {
-        console.log("ok this one needs help");
-      }
     });
   });
   $.getScript("https://unpkg.com/tippy.js@3/dist/tippy.all.min.js");
@@ -240,7 +233,6 @@ const loadSvgWithTooltips = ({
   filePrefix, // "Potwar_Map_svg__"
   tooltipPrefix, // "hoverthing"
   contentDivId, // "#ajaxContent"
-  updateNavTo, // true or false
 }) => {
   const hoverthingTarget = filePrefix + tooltipPrefix;
   const tooltipsNew = addPrefixToTooltips(tooltips, filePrefix);
@@ -248,7 +240,7 @@ const loadSvgWithTooltips = ({
     $(document).ready(() => {
       loadLargeSvg(contentDivId, svgUrl, () => {
         let hoverthings = assembleTooltipClasses(hoverthingTarget);
-        loadTooltips(tooltipsNew, hoverthings, updateNavTo ? filePrefix : "");
+        loadTooltips(tooltipsNew, hoverthings);
       });
     });
   });
