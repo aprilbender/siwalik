@@ -207,15 +207,7 @@ const loadTooltips = (tooltips, targetSelectors, prefixNavTo) => {
         $(elm).attr("onclick") &&
         $(elm).attr("onclick").startsWith("navTo(")
       ) {
-        const currentNavTo = $(elm).attr("onclick");
-        // 01234567
-        // navTo('a')
-        const currentTarget = currentNavTo.substring(
-          7,
-          currentNavTo.length - 2
-        );
-        const desiredTarget = `navTo('${prefixNavTo}${currentTarget}')`;
-        $(elm).attr("onclick", desiredTarget);
+        console.log("ok this one needs help");
       }
     });
   });
