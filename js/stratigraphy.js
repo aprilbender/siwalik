@@ -250,7 +250,7 @@ const loadSvgWithTooltips = ({
     $(document).ready(() => {
       loadLargeSvg(contentDivId, svgUrl, () => {
         let hoverthings = assembleTooltipClasses(hoverthingTarget);
-        loadTooltips(tooltipsNew, hoverthings, updateLink, tooltipPrefix);
+        loadTooltips(tooltipsNew, hoverthings, updateLink, filePrefix);
       });
     });
   });
