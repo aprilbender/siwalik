@@ -23,6 +23,7 @@
     "compress:kashmir": "npx svgo 'svg/Kashmir Map.svg' -o 'svg/Kashmir_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:peshawar": "npx svgo 'svg/Peshawar Map.svg' -o 'svg/Peshawar_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:dag_section": "npx svgo 'svg/dag section.svg' -o 'svg/dag_section_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
+    "compress:bhangala_sections": "npx svgo 'svg/bhangala sections.svg' -o 'svg/bhangala_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:garhi_section": "npx svgo 'svg/garhi section.svg' -o 'svg/garhi_section_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:index": "npx svgo 'svg/Index Map.svg' -o 'svg/Index_Map_Compressed.svg'"
   },

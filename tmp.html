@@ -1,0 +1,47 @@
+<div id="ajaxContentParent">
+  <div id="ajaxContent">
+    <p>Loading Image...</p>
+  </div>
+</div>
+
+<script>
+  var Webflow = Webflow || [];
+  const svgUrl =
+    "https://raw.githubusercontent.com/aprilbender/siwalik/master/svg/Key%20Map_measured%20sections.svg";
+
+  const tooltips = {
+    chambal: "Chambal",
+    pabbi: "Pabbi Hills",
+    rohtas: "Central Rohtas",
+    nrohtas: "North Rohtas",
+    shampur: "Shahpur",
+    dhok: "Dhok Saiyidan",
+    soan: "Soan",
+    ganda: "Ganda Paik",
+    bhangala: "Bhangala",
+    rata: "Rata dadial",
+    mawa: "Mawa kaneli",
+    kas: "Kas Guma",
+    jhel: "Jhel kas",
+    dina: "Dina",
+    pind: "Pind Savikka",
+    baramula: "Baramula",
+    shaliganga: "Shaliganga",
+    romushi: "Romushi",
+    hirpur: "Hirpur",
+    garhi: "Garhi",
+    dag: "Dag",
+  };
+
+  Webflow.push(function () {
+    $(document).ready(() => {
+      loadLargeSvg("#ajaxContent", svgUrl, () =>
+        loadTooltips(tooltips, [
+          ".hoverthing-1",
+          ".hovergroup",
+          ".hoverthing_x002D_1",
+        ])
+      );
+    });
+  });
+</script>
