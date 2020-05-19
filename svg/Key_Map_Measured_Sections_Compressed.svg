@@ -682,7 +682,10 @@
             <circle id="Key_Map_measured_sections_svg__kas" onclick="navTo('k')" class="Key_Map_measured_sections_svg__hoverthing1" cx="527.17" cy="414.29" r="6"/>
         </a>
         <a xlink:href="#Key_Map_measured_sections_svg__l">
-            <circle id="Key_Map_measured_sections_svg__jhel" onclick="navTo('l')" class="Key_Map_measured_sections_svg__hoverthing1" cx="498.28" cy="411.06" r="6"/>
+            <circle id="Key_Map_measured_sections_svg__jhel" onclick="navTo('l')" class="Key_Map_measured_sections_svg__hoverthing1" cx="496.28" cy="411.06" r="6"/>
+        </a>
+        <a xlink:href="#Key_Map_measured_sections_svg__v">
+            <circle id="Key_Map_measured_sections_svg__jari" onclick="navTo('v')" class="Key_Map_measured_sections_svg__hoverthing1" cx="511.49" cy="411.72" r="6"/>
         </a>
         <a xlink:href="#Key_Map_measured_sections_svg__j">
             <circle id="Key_Map_measured_sections_svg__mawa" onclick="navTo('j')" class="Key_Map_measured_sections_svg__hoverthing1" cx="515.08" cy="391.98" r="6"/>
