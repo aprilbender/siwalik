@@ -4167,7 +4167,13 @@
 		<circle id="chambal" onclick="navTo('a')" class="hoverthing1" cx="450.1" cy="486.92" r="6"/>
 	</a>
 	<a xlink:href="#o" >
-		<circle id="pind" onclick="navTo('o')" class="hoverthing1" cx="424.99" cy="477.7" r="6"/>
+		<circle id="pind" onclick="navTo('o')" class="hoverthing1" cx="426.99" cy="477.7" r="6"/>
+	</a>
+	<a xlink:href="#o" >
+		<circle id="kotal" onclick="navTo('o')" class="hoverthing1" cx="411.87" cy="477.16" r="6"/>
+	</a>
+	<a xlink:href="#o" >
+		<circle id="tatrot" onclick="navTo('o')" class="hoverthing1" cx="432.02" cy="462.42" r="6"/>
 	</a>
 	<a xlink:href="#b" >
 		<circle id="pabbi" onclick="navTo('b')" class="hoverthing1" cx="521.12" cy="447.82" r="6"/>

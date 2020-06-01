@@ -661,7 +661,13 @@
             <circle id="Key_Map_measured_sections_svg__chambal" onclick="navTo('a')" class="Key_Map_measured_sections_svg__hoverthing1" cx="450.1" cy="486.92" r="6"/>
         </a>
         <a xlink:href="#Key_Map_measured_sections_svg__o">
-            <circle id="Key_Map_measured_sections_svg__pind" onclick="navTo('o')" class="Key_Map_measured_sections_svg__hoverthing1" cx="424.99" cy="477.7" r="6"/>
+            <circle id="Key_Map_measured_sections_svg__pind" onclick="navTo('o')" class="Key_Map_measured_sections_svg__hoverthing1" cx="426.99" cy="477.7" r="6"/>
+        </a>
+        <a xlink:href="#Key_Map_measured_sections_svg__o">
+            <circle id="Key_Map_measured_sections_svg__kotal" onclick="navTo('o')" class="Key_Map_measured_sections_svg__hoverthing1" cx="411.87" cy="477.16" r="6"/>
+        </a>
+        <a xlink:href="#Key_Map_measured_sections_svg__o">
+            <circle id="Key_Map_measured_sections_svg__tatrot" onclick="navTo('o')" class="Key_Map_measured_sections_svg__hoverthing1" cx="432.02" cy="462.42" r="6"/>
         </a>
         <a xlink:href="#Key_Map_measured_sections_svg__b">
             <circle id="Key_Map_measured_sections_svg__pabbi" onclick="navTo('b')" class="Key_Map_measured_sections_svg__hoverthing1" cx="521.12" cy="447.82" r="6"/>
