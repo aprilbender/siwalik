@@ -4562,12 +4562,14 @@ I147B/CsYI/uD+FJ4EafyN/hX5Ef3G/wr8iP7orCGP7opBCz7or8ln3R/CvyWfdH8KQws+6KwhYP
 		915.75,455.71 915.36,450.17 916.8,443.5 	"/>
 </g>
 <g id="section_boxes">
-	<polygon class="hoverthingQ" points="1415.77,744.03 1486.93,652.02 888.14,188.89 818.25,279.26 817.76,279.1 817.31,280.47 
-		816.98,280.9 817.13,281.01 662.72,754.38 242.56,672.16 220.22,786.31 699.1,880.02 721.43,765.87 721.39,765.86 866.97,319.56 	
-		"/>
+	<a xlink:href="/sections/measured-sections#m" >
+		<polygon id="dina" class="hoverthingQ" points="1415.77,744.03 1486.93,652.02 888.14,188.89 818.25,279.26 817.76,279.1 
+			817.31,280.47 816.98,280.9 817.13,281.01 662.72,754.38 242.56,672.16 220.22,786.31 699.1,880.02 721.43,765.87 721.39,765.86 
+			866.97,319.56 		"/>
+	</a>
 	<a xlink:href="/sections/measured-sections#m" >
 		
-			<rect id="dina_1_" x="2208.22" y="112.29" transform="matrix(0.6118 -0.791 0.791 0.6118 484.9116 1986.5131)" class="hoverthingQ" width="116.32" height="773.85"/>
+			<rect id="aa" x="2208.22" y="112.29" transform="matrix(0.6118 -0.791 0.791 0.6118 484.9116 1986.5131)" class="hoverthingQ" width="116.32" height="773.85"/>
 	</a>
 </g>
 <g id="circles">

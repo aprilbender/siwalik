@@ -39,9 +39,11 @@
         <path class="dina_sections_svg__st11" d="M914.36 439.69l-8.58 8.45 4.51 6.7 4.52 15.08-7.92 11.07 16.71-7.55-2.45-8.36-5.4-9.37-.39-5.54 1.44-6.67z"/>
     </g>
     <g id="dina_sections_svg__section_boxes">
-        <path class="dina_sections_svg__hoverthingQ" d="M1415.77 744.03l71.16-92.01-598.79-463.13-69.89 90.37-.49-.16-.45 1.37-.33.43.15.11-154.41 473.37-420.16-82.22-22.34 114.15 478.88 93.71 22.33-114.15-.04-.01 145.58-446.3z"/>
         <a xlink:href="/sections/measured-sections#m">
-            <path id="dina_sections_svg__dina_1_" transform="rotate(-52.28 2266.382 499.239)" class="dina_sections_svg__hoverthingQ" d="M2208.22 112.29h116.32v773.85h-116.32z"/>
+            <path id="dina_sections_svg__dina" class="dina_sections_svg__hoverthingQ" d="M1415.77 744.03l71.16-92.01-598.79-463.13-69.89 90.37-.49-.16-.45 1.37-.33.43.15.11-154.41 473.37-420.16-82.22-22.34 114.15 478.88 93.71 22.33-114.15-.04-.01 145.58-446.3z"/>
+        </a>
+        <a xlink:href="/sections/measured-sections#m">
+            <path id="dina_sections_svg__aa" transform="rotate(-52.28 2266.382 499.239)" class="dina_sections_svg__hoverthingQ" d="M2208.22 112.29h116.32v773.85h-116.32z"/>
         </a>
     </g>
     <g id="dina_sections_svg__circles">
