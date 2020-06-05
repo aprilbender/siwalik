@@ -32,6 +32,7 @@
     "compress:dina_sections": "npx svgo 'svg/dina sections.svg' -o 'svg/dina_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:rata_sections": "npx svgo 'svg/rata sections.svg' -o 'svg/rata_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:pandori_sections": "npx svgo 'svg/pandori sections.svg' -o 'svg/pandori_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
+    "compress:sakrana_sections": "npx svgo 'svg/sakrana sections.svg' -o 'svg/sakrana_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:index": "npx svgo 'svg/Index Map.svg' -o 'svg/Index_Map_Compressed.svg'"
   },
   "repository": {
