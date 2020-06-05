@@ -142,6 +142,7 @@ const loadLargeSvg = (targetSelector, svgUrl, successCallback) => {
 // browsers like Safari.
 const navTo = (id) => {
   // $("#" + id)[0].scrollIntoView();
+  console.log("yes really");
   window.setTimeout(() => (window.location.hash = id), 20);
 };
 
