@@ -4190,6 +4190,12 @@
 	<a xlink:href="#i" >
 		<circle id="rata" onclick="navTo('i')" class="hoverthing1" cx="480.59" cy="362.46" r="6"/>
 	</a>
+	<a xlink:href="#i" >
+		<circle id="sakrana" onclick="navTo('i')" class="hoverthing1" cx="449.23" cy="356.2" r="6"/>
+	</a>
+	<a xlink:href="#i" >
+		<circle id="pandori" onclick="navTo('i')" class="hoverthing1" cx="422.32" cy="350.62" r="6"/>
+	</a>
 	<a xlink:href="#k" >
 		<circle id="kas" onclick="navTo('k')" class="hoverthing1" cx="527.17" cy="414.29" r="6"/>
 	</a>
