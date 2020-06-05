@@ -213,7 +213,7 @@
             <path id="East_Potwar_Key_svg__rhotas" onclick="navTo('f')" class="East_Potwar_Key_svg__hoverthing5" d="M957.72 1277.21l1.87-.03c5.79-.09 10.52 5.17 10.57 11.74l.01 1.02c.04 6.49-4.56 11.83-10.28 11.91l-19.54.29-.17-24.67 17.54-.26"/>
         </a>
         <a xlink:href="#East_Potwar_Key_svg__s">
-            <path id="East_Potwar_Key_svg__rhotas_1_" onclick="navTo('s')" class="East_Potwar_Key_svg__hoverthing5" d="M531.72 1502.21l1.87-.03c5.79-.09 10.52 5.17 10.57 11.74l.01 1.02c.04 6.49-4.56 11.83-10.28 11.91l-19.54.29-.17-24.67 17.54-.26"/>
+            <path id="East_Potwar_Key_svg__tatrot" onclick="navTo('s')" class="East_Potwar_Key_svg__hoverthing5" d="M531.72 1502.21l1.87-.03c5.79-.09 10.52 5.17 10.57 11.74l.01 1.02c.04 6.49-4.56 11.83-10.28 11.91l-19.54.29-.17-24.67 17.54-.26"/>
         </a>
         <a xlink:href="#East_Potwar_Key_svg__e">
             <path id="East_Potwar_Key_svg__pabbi" onclick="navTo('e')" class="East_Potwar_Key_svg__hoverthing6" d="M1357.3 1515.26l.97 1.6c3 4.95.85 11.72-4.79 15.12l-.87.53c-5.58 3.36-12.5 2.12-15.47-2.77l-10.12-16.69 21.2-12.77 9.08 14.98"/>
@@ -228,7 +228,7 @@
             <path id="East_Potwar_Key_svg__pandori" onclick="navTo('p')" class="East_Potwar_Key_svg__hoverthing2_x0020_" d="M535.82 504.02l1.87-.02c5.79-.07 10.53 5.21 10.59 11.81l.01 1.02c.06 6.51-4.52 11.85-10.24 11.92l-19.52.24-.23-24.75 17.52-.22"/>
         </a>
         <a xlink:href="#East_Potwar_Key_svg__r">
-            <path id="East_Potwar_Key_svg__pandori_1_" onclick="navTo('r')" class="East_Potwar_Key_svg__hoverthing2_x0020_" d="M622.82 1801.02l1.87-.02c5.79-.07 10.53 5.21 10.59 11.81l.01 1.02c.06 6.51-4.52 11.85-10.24 11.92l-19.52.24-.23-24.75 17.52-.22"/>
+            <path id="East_Potwar_Key_svg__yates" onclick="navTo('r')" class="East_Potwar_Key_svg__hoverthing2_x0020_" d="M622.82 1801.02l1.87-.02c5.79-.07 10.53 5.21 10.59 11.81l.01 1.02c.06 6.51-4.52 11.85-10.24 11.92l-19.52.24-.23-24.75 17.52-.22"/>
         </a>
         <a xlink:href="#East_Potwar_Key_svg__a">
             <path id="East_Potwar_Key_svg__soan" onclick="navTo('a')" class="East_Potwar_Key_svg__hoverthing5" d="M451.56 161.7l1.67-.85c5.17-2.64 11.8.02 14.81 5.93l.47.91c2.98 5.84 1.25 12.68-3.85 15.28l-17.43 8.89-11.31-22.18 15.64-7.98"/>
