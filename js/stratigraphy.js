@@ -141,7 +141,8 @@ const loadLargeSvg = (targetSelector, svgUrl, successCallback) => {
 // navTo is for internal linking from SVGs. This is to sidestep a limitation in some
 // browsers like Safari.
 const navTo = (id) => {
-  $("#" + id)[0].scrollIntoView();
+  // $("#" + id)[0].scrollIntoView();
+  window.location.hash = id;
 };
 
 // these pano-related functiosn deal with 360-degre panographic embeds. They require
