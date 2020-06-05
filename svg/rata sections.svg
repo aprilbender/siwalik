@@ -19806,6 +19806,12 @@ AQAAAAAAAAB8y73/v3eURuE1Hqs1AAAAAElFTkSuQmCC" transform="matrix(1 0 0 1 -47.0045
 		242.3,786.92 248.3,752.26 257.64,733.59 258.3,722.92 246.97,736.92 230.3,782.92 212.3,798.26 198.97,831.59 187.64,838.26 
 		182.97,834.26 177.64,819.59 162.3,811.59 154.97,804.26 148.3,793.59 	"/>
 </g>
+<g id="section_boxes">
+	<a xlink:href="/sections/measured-sections#i" >
+		<polygon class="hoverthingQ" points="1530.44,868.62 1530.63,868.13 602.93,513.28 602.93,264.99 525.79,264.99 525.79,543.9 
+			567.67,543.9 567.62,544.01 1453.79,882.97 1453.79,1171.28 1530.93,1171.28 1530.93,868.62 		"/>
+	</a>
+</g>
 <g id="circles">
 	<g>
 		<circle class="st14" cx="1466.97" cy="1109.59" r="9.15"/>
@@ -19836,12 +19842,6 @@ AQAAAAAAAAB8y73/v3eURuE1Hqs1AAAAAElFTkSuQmCC" transform="matrix(1 0 0 1 -47.0045
 	<circle class="st15" cx="463.3" cy="437.76" r="9.15"/>
 	<circle class="st15" cx="449.97" cy="449.76" r="9.15"/>
 	<circle class="st15" cx="443.97" cy="462.42" r="9.15"/>
-</g>
-<g id="section_boxes">
-	<a xlink:href="/sections/measured-sections#i" >
-		
-			<rect id="rata" x="525.79" y="192" transform="matrix(-0.5371 -0.8435 0.8435 -0.5371 554.806 1117.2456)" class="hoverthingQ" width="116.32" height="428.8"/>
-	</a>
 	<g>
 	</g>
 	<g>
