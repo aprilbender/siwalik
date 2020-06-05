@@ -143,7 +143,10 @@ const loadLargeSvg = (targetSelector, svgUrl, successCallback) => {
 const navTo = (id) => {
   // $("#" + id)[0].scrollIntoView();
   console.log("yes really");
-  window.setTimeout(() => (window.location.hash = id), 20);
+  window.location.hash = "bogus";
+  console.log("set to bogus");
+  window.location.hash = id;
+  console.log("now set to " + window.location.href);
 };
 
 // these pano-related functiosn deal with 360-degre panographic embeds. They require
