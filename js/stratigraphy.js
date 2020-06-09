@@ -142,7 +142,6 @@ const loadLargeSvg = (targetSelector, svgUrl, successCallback) => {
 // browsers like Safari.
 const navTo = (id) => {
   const useNormalApproach = false;
-
   if (useNormalApproach === true) {
     // The following line is the thing that 'just works' in Chrome and civilized browsers
     $("#" + id)[0].scrollIntoView();
