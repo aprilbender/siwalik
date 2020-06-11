@@ -4190,11 +4190,11 @@
 	<a xlink:href="#i" >
 		<circle id="rata" onclick="navTo('i')" class="hoverthing1" cx="480.59" cy="362.46" r="6"/>
 	</a>
-	<a xlink:href="#i" >
-		<circle id="sakrana" onclick="navTo('i')" class="hoverthing1" cx="449.23" cy="356.2" r="6"/>
+	<a xlink:href="#w" >
+		<circle id="sakrana" onclick="navTo('w')" class="hoverthing1" cx="449.23" cy="356.2" r="6"/>
 	</a>
-	<a xlink:href="#i" >
-		<circle id="pandori" onclick="navTo('i')" class="hoverthing1" cx="422.32" cy="350.62" r="6"/>
+	<a xlink:href="#x" >
+		<circle id="pandori" onclick="navTo('x')" class="hoverthing1" cx="422.32" cy="350.62" r="6"/>
 	</a>
 	<a xlink:href="#k" >
 		<circle id="kas" onclick="navTo('k')" class="hoverthing1" cx="527.17" cy="414.29" r="6"/>
@@ -4209,7 +4209,10 @@
 		<circle id="mawa" onclick="navTo('j')" class="hoverthing1" cx="515.08" cy="391.98" r="6"/>
 	</a>
 	<a xlink:href="#d" >
-		<circle id="shampur" onclick="navTo('d')" class="hoverthing1" cx="382.53" cy="318.31" r="6"/>
+		<circle id="shahpur" onclick="navTo('d')" class="hoverthing1" cx="382.53" cy="318.31" r="6"/>
+	</a>
+	<a xlink:href="#aa" >
+		<circle id="dovac" onclick="navTo('aa')" class="hoverthing1" cx="408.22" cy="331.43" r="6"/>
 	</a>
 	<a xlink:href="#t" >
 		<circle id="garhi" onclick="navTo('t')" class="hoverthing1" cx="145.71" cy="260.77" r="6"/>
@@ -4233,7 +4236,7 @@
 		<circle id="hirpur" onclick="navTo('s')" class="hoverthing1" cx="651.96" cy="294.16" r="6"/>
 	</a>
 	<a xlink:href="#f" >
-		<circle id="soan" onclick="navTo('f')" class="hoverthing1" cx="391.98" cy="338.14" r="6"/>
+		<circle id="soan" onclick="navTo('f')" class="hoverthing1" cx="391.98" cy="331.14" r="6"/>
 	</a>
 	<a xlink:href="#g" >
 		<circle id="ganda" onclick="navTo('g')" class="hoverthing1" cx="439.05" cy="395.61" r="6"/>
