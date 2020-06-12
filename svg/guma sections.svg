@@ -4,6 +4,7 @@
 	 viewBox="0 0 1812.18 1362.14" style="enable-background:new 0 0 1812.18 1362.14;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#231F20;stroke-width:0.3;}
+	.hoverthingQ{opacity:0.5;fill:#9C1F60;}
 	.st1{fill:#F4DAB9;}
 	.st2{opacity:0.65;fill:#F9EC31;}
 	.st3{fill:#F9EC31;}
@@ -13,9 +14,8 @@
 	.st7{display:inline;fill:none;stroke:#26A9E0;stroke-miterlimit:10;}
 	.st8{display:none;fill:none;stroke:#26A9E0;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st9{fill:#26A9E0;}
-	.st10{opacity:0.3;fill:#9C1F60;}
-	.st11{fill:#FFFFFF;stroke:#231F20;stroke-miterlimit:10;}
-	.st12{stroke:#231F20;stroke-miterlimit:10;}
+	.st10{fill:#FFFFFF;stroke:#231F20;stroke-miterlimit:10;}
+	.st11{stroke:#231F20;stroke-miterlimit:10;}
 </style>
 <symbol  id="Deleted_Symbol" viewBox="-30.1 -12.21 60.2 24.42">
 	<line class="st0" x1="30.01" y1="6.21" x2="28.01" y2="4.71"/>
@@ -12108,64 +12108,64 @@ rvdxrrlmrnaYa+7bl/n9ye5LOVwLYwAAAAAAAAA42vB9X6/VaglaAgAAAAAAAHC08f8HAJwZ+wGt
 <g id="section_boxes">
 	<a xlink:href="/sections/measured-sections#k" >
 		
-			<rect id="guma" x="1052.5" y="379.86" transform="matrix(0.952 0.3062 -0.3062 0.952 290.4567 -306.2878)" class="st10" width="138.28" height="785.89"/>
+			<rect id="guma" x="1052.5" y="379.86" transform="matrix(0.952 0.3062 -0.3062 0.952 290.4567 -306.2878)" class="hoverthingQ" width="138.28" height="785.89"/>
 	</a>
 </g>
 <g id="circles">
-	<circle class="st11" cx="1193.31" cy="436.75" r="7.88"/>
-	<circle class="st12" cx="1189.81" cy="625.75" r="7.88"/>
-	<circle class="st12" cx="1187.81" cy="636.25" r="7.88"/>
-	<circle class="st12" cx="1166.35" cy="665.07" r="7.88"/>
-	<circle class="st12" cx="1159.35" cy="673.07" r="7.88"/>
-	<circle class="st12" cx="1155.35" cy="682.57" r="7.88"/>
-	<circle class="st11" cx="1134.31" cy="741.75" r="8.27"/>
-	<circle class="st11" cx="1139.81" cy="734.98" r="8.27"/>
-	<circle class="st12" cx="1148.31" cy="726.75" r="7.88"/>
-	<circle class="st11" cx="1127.31" cy="726.75" r="8.27"/>
-	<circle class="st12" cx="1212.72" cy="590.94" r="7.5"/>
-	<circle class="st12" cx="1216.81" cy="585.46" r="7.5"/>
-	<circle class="st12" cx="1223" cy="574.72" r="7.5"/>
-	<circle class="st12" cx="1228.97" cy="565.01" r="7.5"/>
-	<circle class="st12" cx="1140.31" cy="710.25" r="7.88"/>
-	<circle class="st12" cx="1152.85" cy="692.57" r="7.88"/>
-	<circle class="st12" cx="1181.81" cy="645.25" r="7.88"/>
-	<circle class="st12" cx="1150.61" cy="717.41" r="7.88"/>
-	<circle class="st11" cx="1175.31" cy="655.25" r="7.88"/>
-	<circle class="st11" cx="1196.81" cy="616.25" r="7.88"/>
-	<circle class="st11" cx="1205.81" cy="604.25" r="7.88"/>
-	<circle class="st11" cx="1244.31" cy="515.75" r="7.88"/>
-	<circle class="st11" cx="1242.31" cy="525.25" r="7.88"/>
-	<circle class="st11" cx="1161.31" cy="487.25" r="7.88"/>
-	<circle class="st11" cx="1169.31" cy="475.75" r="7.88"/>
-	<circle class="st11" cx="1189.81" cy="445.75" r="7.88"/>
-	<circle class="st11" cx="1211.81" cy="410.25" r="7.88"/>
+	<circle class="st10" cx="1193.31" cy="436.75" r="7.88"/>
+	<circle class="st11" cx="1189.81" cy="625.75" r="7.88"/>
+	<circle class="st11" cx="1187.81" cy="636.25" r="7.88"/>
+	<circle class="st11" cx="1166.35" cy="665.07" r="7.88"/>
+	<circle class="st11" cx="1159.35" cy="673.07" r="7.88"/>
+	<circle class="st11" cx="1155.35" cy="682.57" r="7.88"/>
+	<circle class="st10" cx="1134.31" cy="741.75" r="8.27"/>
+	<circle class="st10" cx="1139.81" cy="734.98" r="8.27"/>
+	<circle class="st11" cx="1148.31" cy="726.75" r="7.88"/>
+	<circle class="st10" cx="1127.31" cy="726.75" r="8.27"/>
+	<circle class="st11" cx="1212.72" cy="590.94" r="7.5"/>
+	<circle class="st11" cx="1216.81" cy="585.46" r="7.5"/>
+	<circle class="st11" cx="1223" cy="574.72" r="7.5"/>
+	<circle class="st11" cx="1228.97" cy="565.01" r="7.5"/>
+	<circle class="st11" cx="1140.31" cy="710.25" r="7.88"/>
+	<circle class="st11" cx="1152.85" cy="692.57" r="7.88"/>
+	<circle class="st11" cx="1181.81" cy="645.25" r="7.88"/>
+	<circle class="st11" cx="1150.61" cy="717.41" r="7.88"/>
+	<circle class="st10" cx="1175.31" cy="655.25" r="7.88"/>
+	<circle class="st10" cx="1196.81" cy="616.25" r="7.88"/>
+	<circle class="st10" cx="1205.81" cy="604.25" r="7.88"/>
+	<circle class="st10" cx="1244.31" cy="515.75" r="7.88"/>
+	<circle class="st10" cx="1242.31" cy="525.25" r="7.88"/>
+	<circle class="st10" cx="1161.31" cy="487.25" r="7.88"/>
+	<circle class="st10" cx="1169.31" cy="475.75" r="7.88"/>
+	<circle class="st10" cx="1189.81" cy="445.75" r="7.88"/>
+	<circle class="st10" cx="1211.81" cy="410.25" r="7.88"/>
 	<g>
-		<circle class="st12" cx="1201.19" cy="421.74" r="7.88"/>
-		<path class="st11" d="M1200.98,414.06c0.19-0.01,0.38-0.02,0.58-0.02c4.35,0,7.88,3.53,7.88,7.88s-3.53,7.88-7.88,7.88
+		<circle class="st11" cx="1201.19" cy="421.74" r="7.88"/>
+		<path class="st10" d="M1200.98,414.06c0.19-0.01,0.38-0.02,0.58-0.02c4.35,0,7.88,3.53,7.88,7.88s-3.53,7.88-7.88,7.88
 			L1200.98,414.06z"/>
 	</g>
-	<circle class="st11" cx="1237.81" cy="539.25" r="7.88"/>
-	<circle class="st11" cx="1236.31" cy="553.75" r="7.88"/>
-	<circle class="st11" cx="1133.81" cy="768.08" r="8.27"/>
-	<circle class="st11" cx="1130.47" cy="737.91" r="8.27"/>
-	<circle class="st11" cx="1126.31" cy="786.58" r="8.27"/>
-	<circle class="st11" cx="1124.14" cy="810.75" r="8.27"/>
-	<circle class="st11" cx="1122.64" cy="832.75" r="8.27"/>
-	<circle class="st11" cx="1130.64" cy="850.75" r="8.27"/>
-	<circle class="st11" cx="1114.31" cy="855.91" r="8.27"/>
-	<circle class="st11" cx="1118.64" cy="878.58" r="8.27"/>
-	<circle class="st11" cx="1126.31" cy="904.91" r="8.27"/>
-	<circle class="st11" cx="1124.31" cy="926.58" r="8.27"/>
-	<circle class="st11" cx="1107.64" cy="1026.58" r="8.27"/>
-	<circle class="st11" cx="1100.97" cy="1063.58" r="8.27"/>
-	<circle class="st11" cx="941.47" cy="1117.58" r="8.27"/>
-	<circle class="st11" cx="1181.81" cy="457.25" r="7.88"/>
-	<circle class="st12" cx="1119.61" cy="957.41" r="7.88"/>
-	<circle class="st12" cx="1107.28" cy="980.75" r="7.88"/>
-	<circle class="st12" cx="1112.61" cy="999.41" r="7.88"/>
+	<circle class="st10" cx="1237.81" cy="539.25" r="7.88"/>
+	<circle class="st10" cx="1236.31" cy="553.75" r="7.88"/>
+	<circle class="st10" cx="1133.81" cy="768.08" r="8.27"/>
+	<circle class="st10" cx="1130.47" cy="737.91" r="8.27"/>
+	<circle class="st10" cx="1126.31" cy="786.58" r="8.27"/>
+	<circle class="st10" cx="1124.14" cy="810.75" r="8.27"/>
+	<circle class="st10" cx="1122.64" cy="832.75" r="8.27"/>
+	<circle class="st10" cx="1130.64" cy="850.75" r="8.27"/>
+	<circle class="st10" cx="1114.31" cy="855.91" r="8.27"/>
+	<circle class="st10" cx="1118.64" cy="878.58" r="8.27"/>
+	<circle class="st10" cx="1126.31" cy="904.91" r="8.27"/>
+	<circle class="st10" cx="1124.31" cy="926.58" r="8.27"/>
+	<circle class="st10" cx="1107.64" cy="1026.58" r="8.27"/>
+	<circle class="st10" cx="1100.97" cy="1063.58" r="8.27"/>
+	<circle class="st10" cx="941.47" cy="1117.58" r="8.27"/>
+	<circle class="st10" cx="1181.81" cy="457.25" r="7.88"/>
+	<circle class="st11" cx="1119.61" cy="957.41" r="7.88"/>
+	<circle class="st11" cx="1107.28" cy="980.75" r="7.88"/>
+	<circle class="st11" cx="1112.61" cy="999.41" r="7.88"/>
 	<g>
-		<circle class="st12" cx="1040.19" cy="1095.24" r="7.88"/>
-		<path class="st11" d="M1039.98,1087.56c0.19-0.01,0.38-0.02,0.58-0.02c4.35,0,7.88,3.53,7.88,7.88s-3.53,7.88-7.88,7.88
+		<circle class="st11" cx="1040.19" cy="1095.24" r="7.88"/>
+		<path class="st10" d="M1039.98,1087.56c0.19-0.01,0.38-0.02,0.58-0.02c4.35,0,7.88,3.53,7.88,7.88s-3.53,7.88-7.88,7.88
 			L1039.98,1087.56z"/>
 	</g>
 	<g>
