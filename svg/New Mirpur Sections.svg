@@ -4,7 +4,7 @@
 	 viewBox="0 0 912.09 756.22" style="enable-background:new 0 0 912.09 756.22;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#000000;stroke-width:0.3;}
-	.hoverthingQ{opacity:0.8;fill:#9D1F60;}
+	.hoverthingQ_x0020_2{opacity:0.5;fill:#9D2061;}
 	.st1{display:none;fill:none;stroke:#000000;stroke-miterlimit:10;}
 	.st2{fill:#FBAE3C;}
 	.st3{fill:#F4DAB9;}
@@ -16609,7 +16609,7 @@ AAAASUVORK5CYII=" transform="matrix(1 0 0 1 -0.7603 -0.7831)">
 <g id="Section_Boxes">
 	<a xlink:href="/sections/measured-sections#l" >
 		
-			<rect id="jhel" x="316.1" y="170.24" transform="matrix(0.1729 0.9849 -0.9849 0.1729 628.1948 -34.1539)" class="hoverthingQ" width="36.67" height="373.48"/>
+			<rect id="jhel" x="316.1" y="170.24" transform="matrix(0.1729 0.9849 -0.9849 0.1729 628.1948 -34.1539)" class="hoverthingQ_x0020_2" width="36.67" height="373.48"/>
 	</a>
 	<g>
 	</g>
