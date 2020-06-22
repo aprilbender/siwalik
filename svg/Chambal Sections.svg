@@ -4,7 +4,7 @@
 	 viewBox="0 0 933 671" style="enable-background:new 0 0 933 671;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#000000;stroke-width:0.3;}
-	.hoverthingQ{opacity:0.8;fill:#9D1F60;}
+	.hoverthingQ_x0020_2{opacity:0.5;fill:#9D2061;}
 	.st1{fill:#F4DAB9;}
 	.st2{fill:#FFF200;}
 	.st3{opacity:0.6;fill:#27AAE1;}
@@ -14520,7 +14520,7 @@ GQwGg8FgMBgMBoPBBCaDwWAwGAwGg8FgMP7b+b8BAN7LVgxZZEluAAAAAElFTkSuQmCC" transform=
 <g id="Boxes">
 	<a xlink:href="/sections/measured-sections#a" >
 		
-			<rect id="chambal" x="321" y="106.12" transform="matrix(0.1729 0.9849 -0.9849 0.1729 617.3337 -83.3254)" class="hoverthingQ" width="74.57" height="439.61"/>
+			<rect id="chambal" x="321" y="106.12" transform="matrix(0.1729 0.9849 -0.9849 0.1729 617.3337 -83.3254)" class="hoverthingQ_x0020_2" width="74.57" height="439.61"/>
 	</a>
 	<g>
 	</g>
