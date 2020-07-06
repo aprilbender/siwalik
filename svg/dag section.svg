@@ -222,42 +222,6 @@
 		c3.5,3.5,5.5,19.5,5.5,19.5"/>
 	<path class="st13" d="M699.29,523.26l-1,32c0,0-3,12.5-1.5,14"/>
 </g>
-<g id="section_boxes">
-	<a xlink:href="/sections/measured-sections#ju" >
-		
-			<rect id="dag" x="541.02" y="195.82" transform="matrix(0.9755 -0.2199 0.2199 0.9755 -65.1282 134.2556)" class="hoverthingQ" width="58.96" height="327.71"/>
-	</a>
-</g>
-<g id="circles">
-	<g>
-		<circle class="st14" cx="594.05" cy="459.58" r="3.94"/>
-		<circle class="st14" cx="597.38" cy="466.58" r="3.94"/>
-		<circle class="st14" cx="600.38" cy="453.94" r="3.94"/>
-		<circle class="st14" cx="595.24" cy="447.58" r="3.94"/>
-		<circle class="st14" cx="599.59" cy="437.2" r="3.94"/>
-		<circle class="st15" cx="604.87" cy="473.57" r="3.94"/>
-		<circle class="st15" cx="608.87" cy="478.23" r="3.94"/>
-		<circle class="st15" cx="603.63" cy="428.26" r="3.94"/>
-		<circle class="st15" cx="611.03" cy="491.92" r="3.94"/>
-		<circle class="st15" cx="614.37" cy="493.59" r="3.94"/>
-		<circle class="st15" cx="619.7" cy="495.92" r="3.94"/>
-		<circle class="st15" cx="604.54" cy="487.27" r="3.94"/>
-	</g>
-	<circle class="st14" cx="596.92" cy="414.53" r="3.94"/>
-	<circle class="st14" cx="581.9" cy="375.25" r="3.94"/>
-	<circle class="st15" cx="596.29" cy="405.26" r="3.94"/>
-	<circle class="st15" cx="592.29" cy="396.59" r="3.94"/>
-	<circle class="st15" cx="562.96" cy="221.59" r="3.94"/>
-	<circle class="st15" cx="553.29" cy="217.59" r="3.94"/>
-	<circle class="st15" cx="564.96" cy="226.93" r="3.94"/>
-	<circle class="st14" cx="545.92" cy="325.2" r="3.94"/>
-	<circle class="st14" cx="544.26" cy="305.53" r="3.94"/>
-	<circle class="st14" cx="536.92" cy="301.87" r="3.94"/>
-	<circle class="st14" cx="538.59" cy="292.53" r="3.94"/>
-	<circle class="st14" cx="561.26" cy="262.87" r="3.94"/>
-	<circle class="st14" cx="565.63" cy="229.59" r="3.94"/>
-	<circle class="st14" cx="544.96" cy="310.59" r="3.94"/>
-</g>
 <g id="base-Dag">
 	<g id="Dag-map-transp.tif_1_">
 		<g id="Dag-map-transp.tif">
@@ -6930,6 +6894,42 @@ AABJRU5ErkJggg==" transform="matrix(0.6 0 0 0.6 32.0606 57.6608)">
 			</g>
 		</g>
 	</g>
+</g>
+<g id="section_boxes">
+	<a xlink:href="/sections/measured-sections#ju" >
+		
+			<rect id="dag" x="541.02" y="195.82" transform="matrix(0.9755 -0.2199 0.2199 0.9755 -65.1282 134.2556)" class="hoverthingQ" width="58.96" height="327.71"/>
+	</a>
+</g>
+<g id="circles">
+	<g>
+		<circle class="st14" cx="594.05" cy="459.58" r="3.94"/>
+		<circle class="st14" cx="597.38" cy="466.58" r="3.94"/>
+		<circle class="st14" cx="600.38" cy="453.94" r="3.94"/>
+		<circle class="st14" cx="595.24" cy="447.58" r="3.94"/>
+		<circle class="st14" cx="599.59" cy="437.2" r="3.94"/>
+		<circle class="st15" cx="604.87" cy="473.57" r="3.94"/>
+		<circle class="st15" cx="608.87" cy="478.23" r="3.94"/>
+		<circle class="st15" cx="603.63" cy="428.26" r="3.94"/>
+		<circle class="st15" cx="611.03" cy="491.92" r="3.94"/>
+		<circle class="st15" cx="614.37" cy="493.59" r="3.94"/>
+		<circle class="st15" cx="619.7" cy="495.92" r="3.94"/>
+		<circle class="st15" cx="604.54" cy="487.27" r="3.94"/>
+	</g>
+	<circle class="st14" cx="596.92" cy="414.53" r="3.94"/>
+	<circle class="st14" cx="581.9" cy="375.25" r="3.94"/>
+	<circle class="st15" cx="596.29" cy="405.26" r="3.94"/>
+	<circle class="st15" cx="592.29" cy="396.59" r="3.94"/>
+	<circle class="st15" cx="562.96" cy="221.59" r="3.94"/>
+	<circle class="st15" cx="553.29" cy="217.59" r="3.94"/>
+	<circle class="st15" cx="564.96" cy="226.93" r="3.94"/>
+	<circle class="st14" cx="545.92" cy="325.2" r="3.94"/>
+	<circle class="st14" cx="544.26" cy="305.53" r="3.94"/>
+	<circle class="st14" cx="536.92" cy="301.87" r="3.94"/>
+	<circle class="st14" cx="538.59" cy="292.53" r="3.94"/>
+	<circle class="st14" cx="561.26" cy="262.87" r="3.94"/>
+	<circle class="st14" cx="565.63" cy="229.59" r="3.94"/>
+	<circle class="st14" cx="544.96" cy="310.59" r="3.94"/>
 	<g>
 	</g>
 	<g>
