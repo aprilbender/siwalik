@@ -24,6 +24,7 @@
     "compress:peshawar": "npx svgo 'svg/Peshawar Map.svg' -o 'svg/Peshawar_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:dag_section": "npx svgo 'svg/dag section.svg' -o 'svg/dag_section_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:bhangala_sections": "npx svgo 'svg/bhangala sections.svg' -o 'svg/bhangala_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
+    "compress:buttar_sections": "npx svgo 'svg/buttar sections.svg' -o 'svg/buttar_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:pind_sections": "npx svgo 'svg/pind savikka sections.svg' -o 'svg/pind_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:mawa_sections": "npx svgo 'svg/mawa sections.svg' -o 'svg/mawa_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:guma_sections": "npx svgo 'svg/guma sections.svg' -o 'svg/guma_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
