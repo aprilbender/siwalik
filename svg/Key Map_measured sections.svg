@@ -4194,7 +4194,7 @@
 		<circle id="sakrana" onclick="navTo('w')" class="hoverthing1" cx="449.23" cy="356.2" r="6"/>
 	</a>
 	<a xlink:href="#x" >
-		<circle id="pandori" onclick="navTo('x')" class="hoverthing1" cx="422.32" cy="350.62" r="6"/>
+		<circle id="pandori" onclick="navTo('x')" class="hoverthing1" cx="422.32" cy="351.62" r="6"/>
 	</a>
 	<a xlink:href="#k" >
 		<circle id="kas" onclick="navTo('k')" class="hoverthing1" cx="527.17" cy="414.29" r="6"/>
@@ -4213,6 +4213,9 @@
 	</a>
 	<a xlink:href="#aa" >
 		<circle id="dovac" onclick="navTo('aa')" class="hoverthing1" cx="408.22" cy="331.43" r="6"/>
+	</a>
+	<a xlink:href="#ll" >
+		<circle id="buttar" onclick="navTo('ll')" class="hoverthing1" cx="420.89" cy="336.61" r="6"/>
 	</a>
 	<a xlink:href="#t" >
 		<circle id="garhi" onclick="navTo('t')" class="hoverthing1" cx="145.71" cy="260.77" r="6"/>
@@ -4256,8 +4259,8 @@
 	<a xlink:href="#ee" >
 		<circle id="kk_1_" onclick="navTo('ee')" class="hoverthing1" cx="291.9" cy="393.7" r="4.5"/>
 	</a>
-	<a xlink:href="#e" >
-		<circle id="hl_1_" onclick="navTo('ee')" class="hoverthing1" cx="295.32" cy="407.98" r="4.5"/>
+	<a xlink:href="#kk" >
+		<circle id="hl_1_" onclick="navTo('kk')" class="hoverthing1" cx="295.32" cy="407.98" r="4.5"/>
 	</a>
 	<a xlink:href="#ff" >
 		<circle id="dk_1_" onclick="navTo('ff')" class="hoverthing1" cx="301.81" cy="387.49" r="4.5"/>
