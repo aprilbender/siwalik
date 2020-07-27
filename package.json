@@ -33,6 +33,7 @@
     "compress:dina_sections": "npx svgo 'svg/dina sections.svg' -o 'svg/dina_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:jari_sections": "npx svgo 'svg/jari sections.svg' -o 'svg/jari_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:rata_sections": "npx svgo 'svg/rata sections.svg' -o 'svg/rata_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
+    "compress:sauj_sections": "npx svgo 'svg/sauj sections.svg' -o 'svg/sauj_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:pandori_sections": "npx svgo 'svg/pandori sections.svg' -o 'svg/pandori_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:shahpur_sections": "npx svgo 'svg/shahpur sections.svg' -o 'svg/_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:tatrot_sections": "npx svgo 'svg/tatrot sections.svg' -o 'svg/tatrot_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
