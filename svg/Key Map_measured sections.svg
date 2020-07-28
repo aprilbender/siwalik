@@ -4172,6 +4172,12 @@
 	<a xlink:href="#z" >
 		<circle id="kotal" onclick="navTo('z')" class="hoverthing1" cx="411.87" cy="477.16" r="6"/>
 	</a>
+	<a xlink:href="#nn" >
+		<circle id="gabhir" onclick="navTo('nn')" class="hoverthing1" cx="310.58" cy="488.16" r="6"/>
+	</a>
+	<a xlink:href="#mm" >
+		<circle id="sauj" onclick="navTo('mm')" class="hoverthing1" cx="356.06" cy="476.46" r="6"/>
+	</a>
 	<a xlink:href="#y" >
 		<circle id="tatrot" onclick="navTo('y')" class="hoverthing1" cx="432.02" cy="462.42" r="6"/>
 	</a>
