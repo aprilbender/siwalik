@@ -4614,6 +4614,12 @@
 	<a xlink:href="#nn" >
 		<circle id="gabhir" onclick="navTo('nn')" class="hoverthing1" cx="429.47" cy="488.16" r="6"/>
 	</a>
+	<a xlink:href="#pp" >
+		<circle id="pezu" onclick="navTo('pp')" class="hoverthing1" cx="144.27" cy="544.56" r="6"/>
+	</a>
+	<a xlink:href="#oo" >
+		<circle id="bain" onclick="navTo('oo')" class="hoverthing1" cx="130.6" cy="535.86" r="6"/>
+	</a>
 	<a xlink:href="#mm" >
 		<circle id="sauj" onclick="navTo('mm')" class="hoverthing1" cx="474.96" cy="476.46" r="6"/>
 	</a>
