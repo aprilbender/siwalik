@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "compress:subregional": "npx svgo 'svg/Subregional Key Map.svg' -o 'svg/Subregional_Key_Map_Compressed.svg' --pretty --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:regional": "npx svgo 'svg/Regional Key Map.svg' -o 'svg/Regional_Key_Map_Compressed.svg' --pretty --disable=convertStyleToAttrs --disable=inlineStyles",
-    "compress:indus": "npx svgo 'svg/Trans Indus.svg' -o 'svg/Trans_Indus_Compressed.svg' --pretty --disable=convertStyleToAttrs --disable=inlineStyles",
+    "compress:indus": "npx svgo 'svg/Trans Indus.svg' -o 'svg/Trans_Indus_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:potwar": "npx svgo 'svg/Potwar Regional Map.svg' -o 'svg/Potwar_Regional_Map_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:potwar_east": "npx svgo 'svg/East Potwar Key.svg' -o 'svg/east_potwar_key_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:soan": "npx svgo 'svg/Soan Sections.svg' -o 'svg/Soan_Sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
