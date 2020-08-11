@@ -4,7 +4,7 @@
 	 viewBox="0 0 1373.1 1050.58" style="enable-background:new 0 0 1373.1 1050.58;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#231F20;stroke-width:0.3;}
-	.hoverthingQ{opacity:0.5;fill:#9C1F60;}
+	.hoverthingQ_x0020_2{opacity:0.5;fill:#9C1F60;}
 	.st1{fill:#F9EC31;}
 	.st2{fill:#F5A800;}
 	.st3{fill:#E5A450;}
@@ -15648,9 +15648,13 @@ AAAASUVORK5CYII=" transform="matrix(0.9998 0 0 0.9998 18.8234 17.7506)">
 	</g>
 </g>
 <g id="section_boxes">
-	<a xlink:href="/sections/measured-sections#g" >
+	<a xlink:href="/sections/measured-sections#pp" >
 		
-			<rect id="ganda" x="2161.44" y="51.3" transform="matrix(-0.9802 0.1978 -0.1978 -0.9802 4423.6938 253.5629)" class="hoverthingQ" width="75.49" height="592.82"/>
+			<rect id="pezu" x="776.39" y="533.38" transform="matrix(-0.9847 -0.1744 0.1744 -0.9847 1465.6711 1305.8351)" class="hoverthingQ_x0020_2" width="27.67" height="110.25"/>
+	</a>
+	<a xlink:href="/sections/measured-sections#oo" >
+		
+			<rect id="bain" x="332.65" y="137.72" transform="matrix(-0.567 -0.8237 0.8237 -0.567 366.8925 620.2739)" class="hoverthingQ_x0020_2" width="27.67" height="151.95"/>
 	</a>
 </g>
 <g id="blue_river">
