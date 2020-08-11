@@ -8863,12 +8863,8 @@ EARBEARBEASJCQRBEARBEARBfCH8/wDvrWWU5arYBgAAAABJRU5ErkJggg==" transform="matrix(
 </g>
 <g id="section_boxes">
 	<a xlink:href="/sections/measured-sections#t" >
-		<polygon class="hoverthingQ" points="402.53,542.56 401.92,542.82 311.22,336.28 343.25,334.34 338.75,259.98 268.57,264.23 
-			273.07,338.59 287.2,337.73 381.26,551.9 350.65,565.34 494.95,893.93 546.82,871.15 		"/>
-	</a>
-	<a xlink:href="/sections/measured-sections#t" >
-		
-			<rect id="garhi_1_" x="1705.05" y="15.13" transform="matrix(-0.9617 0.2743 -0.2743 -0.9617 3523.7004 417.4938)" class="hoverthingQ" width="55.22" height="879.91"/>
+		<polygon id="garhi" class="hoverthingQ" points="402.53,542.56 401.92,542.82 311.22,336.28 343.25,334.34 338.75,259.98 
+			268.57,264.23 273.07,338.59 287.2,337.73 381.26,551.9 350.65,565.34 494.95,893.93 546.82,871.15 		"/>
 	</a>
 </g>
 <g id="circles">
