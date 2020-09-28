@@ -4625,8 +4625,8 @@
 	<a xlink:href="#uu" >
 		<circle id="spalmi" onclick="navTo('uu')" class="hoverthing1" cx="177.02" cy="434.07" r="6"/>
 	</a>
-	<a xlink:href="#ww" >
-		<circle id="walewal" onclick="navTo('ww')" class="hoverthing1" cx="184.45" cy="516.27" r="6"/>
+	<a xlink:href="#tt" >
+		<circle id="walewal" onclick="navTo('tt')" class="hoverthing1" cx="184.45" cy="516.27" r="6"/>
 	</a>
 	<a xlink:href="#ss" >
 		<circle id="gharangai" onclick="navTo('ss')" class="hoverthing1" cx="177.5" cy="531.29" r="6"/>
@@ -4634,8 +4634,8 @@
 	<a xlink:href="#rr" >
 		<circle id="faqir" onclick="navTo('rr')" class="hoverthing1" cx="166.05" cy="540.98" r="6"/>
 	</a>
-	<a xlink:href="#oo" >
-		<circle id="bhandara" onclick="navTo('oo')" class="hoverthing1" cx="180.51" cy="546.33" r="6"/>
+	<a xlink:href="#ww" >
+		<circle id="bhandara" onclick="navTo('ww')" class="hoverthing1" cx="180.51" cy="546.33" r="6"/>
 	</a>
 	<a xlink:href="#vv" >
 		<circle id="spin" onclick="navTo('vv')" class="hoverthing1" cx="195.99" cy="530.26" r="6"/>

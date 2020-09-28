@@ -708,8 +708,8 @@
         <a xlink:href="#Key_Map_measured_sections_svg__uu">
             <circle id="Key_Map_measured_sections_svg__spalmi" onclick="navTo('uu')" class="Key_Map_measured_sections_svg__hoverthing1" cx="177.02" cy="434.07" r="6"/>
         </a>
-        <a xlink:href="#Key_Map_measured_sections_svg__ww">
-            <circle id="Key_Map_measured_sections_svg__walewal" onclick="navTo('ww')" class="Key_Map_measured_sections_svg__hoverthing1" cx="184.45" cy="516.27" r="6"/>
+        <a xlink:href="#Key_Map_measured_sections_svg__tt">
+            <circle id="Key_Map_measured_sections_svg__walewal" onclick="navTo('tt')" class="Key_Map_measured_sections_svg__hoverthing1" cx="184.45" cy="516.27" r="6"/>
         </a>
         <a xlink:href="#Key_Map_measured_sections_svg__ss">
             <circle id="Key_Map_measured_sections_svg__gharangai" onclick="navTo('ss')" class="Key_Map_measured_sections_svg__hoverthing1" cx="177.5" cy="531.29" r="6"/>
@@ -717,8 +717,8 @@
         <a xlink:href="#Key_Map_measured_sections_svg__rr">
             <circle id="Key_Map_measured_sections_svg__faqir" onclick="navTo('rr')" class="Key_Map_measured_sections_svg__hoverthing1" cx="166.05" cy="540.98" r="6"/>
         </a>
-        <a xlink:href="#Key_Map_measured_sections_svg__oo">
-            <circle id="Key_Map_measured_sections_svg__bhandara" onclick="navTo('oo')" class="Key_Map_measured_sections_svg__hoverthing1" cx="180.51" cy="546.33" r="6"/>
+        <a xlink:href="#Key_Map_measured_sections_svg__ww">
+            <circle id="Key_Map_measured_sections_svg__bhandara" onclick="navTo('ww')" class="Key_Map_measured_sections_svg__hoverthing1" cx="180.51" cy="546.33" r="6"/>
         </a>
         <a xlink:href="#Key_Map_measured_sections_svg__vv">
             <circle id="Key_Map_measured_sections_svg__spin" onclick="navTo('vv')" class="Key_Map_measured_sections_svg__hoverthing1" cx="195.99" cy="530.26" r="6"/>
