@@ -4656,13 +4656,13 @@
 		<circle id="pabbi" onclick="navTo('b')" class="hoverthing1" cx="640.02" cy="447.82" r="6"/>
 	</a>
 	<a xlink:href="#c" >
-		<circle id="rohtas" onclick="navTo('c')" class="hoverthing1" cx="577.33" cy="425.42" r="6"/>
+		<circle id="rohtas" onclick="navTo('c')" class="hoverthing1" cx="569.83" cy="448.68" r="6"/>
 	</a>
 	<a xlink:href="#zz" >
-		<circle id="dhabwala" onclick="navTo('zz')" class="hoverthing1" cx="591.89" cy="424.91" r="6"/>
+		<circle id="dhabwala" onclick="navTo('zz')" class="hoverthing1" cx="583.39" cy="448.2" r="6"/>
 	</a>
 	<a xlink:href="#n" >
-		<circle id="nrohtas" onclick="navTo('n')" class="hoverthing1" cx="588.62" cy="403.48" r="6"/>
+		<circle id="nrohtas" onclick="navTo('n')" class="hoverthing1" cx="580.62" cy="424.48" r="6"/>
 	</a>
 	<a xlink:href="#m" >
 		<circle id="dina" onclick="navTo('m')" class="hoverthing1" cx="571.89" cy="408.03" r="6"/>
