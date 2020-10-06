@@ -4658,6 +4658,9 @@
 	<a xlink:href="#c" >
 		<circle id="rohtas" onclick="navTo('c')" class="hoverthing1" cx="577.33" cy="425.42" r="6"/>
 	</a>
+	<a xlink:href="#zz" >
+		<circle id="dhabwala" onclick="navTo('zz')" class="hoverthing1" cx="591.89" cy="424.91" r="6"/>
+	</a>
 	<a xlink:href="#n" >
 		<circle id="nrohtas" onclick="navTo('n')" class="hoverthing1" cx="588.62" cy="403.48" r="6"/>
 	</a>
