@@ -19,6 +19,7 @@
     "compress:hirpur_sections": "npx svgo 'svg/hirpur section.svg' -o 'svg/hirpur_section_compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:index": "npx svgo 'svg/Index Map.svg' -o 'svg/Index_Map_Compressed.svg'",
     "compress:indus": "npx svgo 'svg/Trans Indus.svg' -o 'svg/Trans_Indus_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
+    "compress:india": "npx svgo 'svg/India.svg' -o 'svg/India_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:jari_sections": "npx svgo 'svg/jari sections.svg' -o 'svg/jari_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:kas_dovac_sections": "npx svgo 'svg/kas dovac sections.svg' -o 'svg/kas_dovac_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:kashmir": "npx svgo 'svg/Kashmir Map.svg' -o 'svg/Kashmir_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
