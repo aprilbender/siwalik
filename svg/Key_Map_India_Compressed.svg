@@ -600,7 +600,7 @@
     <path class="Key_Map_India_svg__st29" d="M-608.41-297.43H702.24v941.24H-608.41z" id="Key_Map_India_svg__new_outer_box"/>
     <g id="Key_Map_India_svg__sections">
         <a xlink:href="#Key_Map_India_svg__a">
-            <circle id="Key_Map_India_svg__nadal" onclick="navTo('a')" class="Key_Map_India_svg__hoverthing1" cx="367.93" cy="285.45" r="7.5"/>
+            <circle id="Key_Map_India_svg__nalad" onclick="navTo('a')" class="Key_Map_India_svg__hoverthing1" cx="367.93" cy="285.45" r="7.5"/>
         </a>
         <a xlink:href="#Key_Map_India_svg__b">
             <circle id="Key_Map_India_svg__kangra_1_" onclick="navTo('b')" class="Key_Map_India_svg__hoverthing1" cx="437.19" cy="360.57" r="7.5"/>

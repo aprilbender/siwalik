@@ -5025,7 +5025,7 @@
 </g>
 <g id="sections">
 	<a xlink:href="#a" >
-		<circle id="nadal" onclick="navTo('a')" class="hoverthing1" cx="367.93" cy="285.45" r="7.5"/>
+		<circle id="nalad" onclick="navTo('a')" class="hoverthing1" cx="367.93" cy="285.45" r="7.5"/>
 	</a>
 	<a xlink:href="#b" >
 		<circle id="kangra_1_" onclick="navTo('b')" class="hoverthing1" cx="437.19" cy="360.57" r="7.5"/>
