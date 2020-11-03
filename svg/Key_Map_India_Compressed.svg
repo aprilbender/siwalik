@@ -603,7 +603,7 @@
             <circle id="Key_Map_India_svg__nalad" onclick="navTo('a')" class="Key_Map_India_svg__hoverthing1" cx="367.93" cy="285.45" r="7.5"/>
         </a>
         <a xlink:href="#Key_Map_India_svg__b">
-            <circle id="Key_Map_India_svg__kangra_1_" onclick="navTo('b')" class="Key_Map_India_svg__hoverthing1" cx="437.19" cy="360.57" r="7.5"/>
+            <circle id="Key_Map_India_svg__kan" onclick="navTo('b')" class="Key_Map_India_svg__hoverthing1" cx="437.19" cy="360.57" r="7.5"/>
         </a>
         <a xlink:href="#Key_Map_India_svg__c">
             <circle id="Key_Map_India_svg__ghaggar" onclick="navTo('c')" class="Key_Map_India_svg__hoverthing1" cx="463.29" cy="537.92" r="7.5"/>
