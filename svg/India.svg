@@ -18,10 +18,10 @@
 	.st8{fill:none;stroke:#231F20;stroke-width:2;stroke-miterlimit:10;}
 	.st9{fill:#231F20;stroke:#231F20;stroke-width:2;stroke-miterlimit:10;}
 	.st10{fill:none;stroke:#231F20;stroke-miterlimit:10;}
-	.st11{fill:none;stroke:#FF931E;stroke-width:5;stroke-miterlimit:10;}
-	.st12{fill:none;stroke:#F15A24;stroke-width:5;stroke-miterlimit:10;}
-	.st13{fill:none;stroke:#F15A24;stroke-width:4;stroke-miterlimit:10;}
-	.st14{fill:none;stroke:#9E1F63;stroke-width:4;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#F15A24;stroke-width:5;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#F15A24;stroke-width:4;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#9E1F63;stroke-width:4;stroke-miterlimit:10;}
+	.st14{fill:none;stroke:#FF931E;stroke-width:4;stroke-miterlimit:10;}
 </style>
 <g id="scratch">
 </g>
@@ -1417,17 +1417,17 @@
 <g id="box">
 	<rect x="90" y="66" class="st10" width="891" height="785"/>
 	<rect x="90.5" y="530.5" class="st10" width="244" height="321"/>
-	<polygon class="st11" points="-1173.92,114.94 -935.8,114.94 -936.89,269.66 -1175.91,268.54 	"/>
 	
-		<rect x="-808.39" y="87.76" transform="matrix(0.4471 0.8945 -0.8945 0.4471 -226.9541 793.5679)" class="st12" width="105.99" height="250.89"/>
+		<rect x="-808.39" y="87.76" transform="matrix(0.4471 0.8945 -0.8945 0.4471 -226.9541 793.5679)" class="st11" width="105.99" height="250.89"/>
 	<a xlink:href="#h" >
 		<path id="smap-8" onclick="navTo('h')" class="hoverthing4" d="M-1195.22,223.02l-1.87-0.02c-5.79-0.08-10.53,5.21-10.6,11.8
 			l-0.01,1.02c-0.07,6.51,4.51,11.85,10.23,11.92l19.52,0.25l0.25-24.75L-1195.22,223.02"/>
 	</a>
 </g>
 <g id="blowups">
-	<rect id="map-1" x="536.5" y="388.5" class="st13" width="40" height="32"/>
-	<rect id="map-2" x="624.5" y="476.5" class="st14" width="49" height="24"/>
+	<rect id="map-1" x="536.5" y="388.5" class="st12" width="40" height="32"/>
+	<rect id="map-2" x="624.5" y="476.5" class="st13" width="49" height="24"/>
+	<polygon id="map-3" class="st14" points="665.25,709 695,709 694.86,738 665,737.79 	"/>
 </g>
 <g id="flags">
 	<a xlink:href="#b" >
@@ -1437,6 +1437,10 @@
 	<a xlink:href="#b" >
 		<path id="kangra" onclick="navTo('b')" class="hoverthing5" d="M520.95,413.49l-1.5-0.01c-4.63-0.04-8.31-4.34-8.22-9.6l0.01-0.81
 			c0.09-5.19,3.88-9.37,8.45-9.33l15.63,0.15l-0.35,19.74L520.95,413.49"/>
+	</a>
+	<a xlink:href="#c" >
+		<path id="ghaggar" onclick="navTo('c')" class="hoverthing4" d="M689.12,753.72l0.01,1.5c0.04,4.63-4.2,8.39-9.46,8.38l-0.81,0
+			c-5.19,0-9.43-3.72-9.47-8.29l-0.12-15.63l19.74,0.01L689.12,753.72"/>
 	</a>
 	<a xlink:href="#a" >
 		<path id="nalad" onclick="navTo('a')" class="hoverthing2_x0020_" d="M608.95,498.49l-1.5-0.01c-4.63-0.04-8.31-4.34-8.22-9.6
