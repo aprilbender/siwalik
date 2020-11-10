@@ -10,6 +10,7 @@
     "compress:bhangala_sections": "npx svgo 'svg/bhangala sections.svg' -o 'svg/bhangala_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:buttar_sections": "npx svgo 'svg/buttar sections.svg' -o 'svg/buttar_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:chambal_sections": "npx svgo 'svg/Chambal Sections.svg' -o 'svg/Chambal_Sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
+    "compress:chandigar_sections": "npx svgo 'svg/chandigar sections.svg' -o 'svg/chandigar_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:dag_sections": "npx svgo 'svg/dag section.svg' -o 'svg/dag_section_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:dina_sections": "npx svgo 'svg/dina sections.svg' -o 'svg/dina_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:eastern_potwar_sections": "npx svgo 'svg/Eastern Potwar Sections.svg' -o 'svg/Eastern_Potwar_Sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
