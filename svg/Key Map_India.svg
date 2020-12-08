@@ -1415,6 +1415,15 @@
 	<a xlink:href="#a" >
 		<circle id="nalad" onclick="navTo('a')" class="hoverthing1" cx="578" cy="424" r="6"/>
 	</a>
+	<a xlink:href="#f" >
+		<circle id="jawa" onclick="navTo('f')" class="hoverthing1" cx="601" cy="459" r="6"/>
+	</a>
+	<a xlink:href="#e" >
+		<circle id="jodin" onclick="navTo('e')" class="hoverthing1" cx="663" cy="449" r="6"/>
+	</a>
+	<a xlink:href="#g" >
+		<circle id="hari" onclick="navTo('g')" class="hoverthing1" cx="633" cy="532" r="6"/>
+	</a>
 	<a xlink:href="#b" >
 		<circle id="kan" onclick="navTo('b')" class="hoverthing1" cx="643" cy="487" r="6"/>
 	</a>

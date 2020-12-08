@@ -112,6 +112,15 @@
         <a xlink:href="#Key_Map_India_svg__a">
             <circle id="Key_Map_India_svg__nalad" onclick="navTo('a')" class="Key_Map_India_svg__hoverthing1" cx="578" cy="424" r="6"/>
         </a>
+        <a xlink:href="#Key_Map_India_svg__f">
+            <circle id="Key_Map_India_svg__jawa" onclick="navTo('f')" class="Key_Map_India_svg__hoverthing1" cx="601" cy="459" r="6"/>
+        </a>
+        <a xlink:href="#Key_Map_India_svg__e">
+            <circle id="Key_Map_India_svg__jodin" onclick="navTo('e')" class="Key_Map_India_svg__hoverthing1" cx="663" cy="449" r="6"/>
+        </a>
+        <a xlink:href="#Key_Map_India_svg__g">
+            <circle id="Key_Map_India_svg__hari" onclick="navTo('g')" class="Key_Map_India_svg__hoverthing1" cx="633" cy="532" r="6"/>
+        </a>
         <a xlink:href="#Key_Map_India_svg__b">
             <circle id="Key_Map_India_svg__kan" onclick="navTo('b')" class="Key_Map_India_svg__hoverthing1" cx="643" cy="487" r="6"/>
         </a>
