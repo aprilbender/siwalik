@@ -18,6 +18,7 @@
     "compress:garhi_sections": "npx svgo 'svg/garhi section.svg' -o 'svg/garhi_section_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:guma_sections": "npx svgo 'svg/guma sections.svg' -o 'svg/guma_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:hirpur_sections": "npx svgo 'svg/hirpur section.svg' -o 'svg/hirpur_section_compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
+    "compress:hari_sections": "npx svgo 'svg/haritalyangar sections.svg' -o 'svg/hari_sections_compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:index": "npx svgo 'svg/Index Map.svg' -o 'svg/Index_Map_Compressed.svg'",
     "compress:indus": "npx svgo 'svg/Trans Indus.svg' -o 'svg/Trans_Indus_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:india": "npx svgo 'svg/India.svg' -o 'svg/India_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
