@@ -134,7 +134,7 @@
             <path id="India_svg__ghaggar" onclick="navTo('c')" class="India_svg__hoverthing4" d="M689.12 753.72l.01 1.5c.04 4.63-4.2 8.39-9.46 8.38h-.81c-5.19 0-9.43-3.72-9.47-8.29l-.12-15.63 19.74.01.11 14.03"/>
         </a>
         <a xlink:href="#India_svg__d">
-            <path id="India_svg__hari_2_" onclick="navTo('d')" class="India_svg__hoverthing4" d="M647.12 554.72l.01 1.5c.04 4.63-4.2 8.39-9.46 8.38h-.81c-5.19 0-9.43-3.72-9.47-8.29l-.12-15.63 19.74.01.11 14.03"/>
+            <path id="India_svg__hari_x5F_2" onclick="navTo('d')" class="India_svg__hoverthing4" d="M647.12 554.72l.01 1.5c.04 4.63-4.2 8.39-9.46 8.38h-.81c-5.19 0-9.43-3.72-9.47-8.29l-.12-15.63 19.74.01.11 14.03"/>
         </a>
         <a xlink:href="/sections/western-india-measured-sections#f">
             <path id="India_svg__jawa" onclick="navTo('f')" class="India_svg__hoverthing3" d="M579.64 486.86l-1 1.12c-3.09 3.45-8.75 3.38-12.64-.16l-.6-.55c-3.84-3.5-4.48-9.09-1.43-12.51l10.42-11.65 14.6 13.29-9.35 10.46"/>
