@@ -6915,8 +6915,8 @@ ebdKPVxWVhYAAAAASUVORK5CYII=" transform="matrix(0.7676 0 0 0.7676 12.393 -24.060
 </g>
 <g id="section_box">
 	<a xlink:href="/sections/western-india-measured-sections#g" >
-		<polygon class="hoverthingQ" points="575.62,518.73 505.85,444.08 238.07,694.38 307.84,769.03 310.97,766.11 281.67,963.4 
-			368.3,976.27 413.77,670.02 		"/>
+		<polygon id="hari" class="hoverthingQ" points="575.62,518.73 505.85,444.08 238.07,694.38 307.84,769.03 310.97,766.11 
+			281.67,963.4 368.3,976.27 413.77,670.02 		"/>
 	</a>
 </g>
 <g id="white_dots">
