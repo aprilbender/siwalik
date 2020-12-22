@@ -139,7 +139,7 @@
         <a xlink:href="/sections/western-india-measured-sections#f">
             <path id="India_svg__jawa" onclick="navTo('f')" class="India_svg__hoverthing3" d="M579.64 486.86l-1 1.12c-3.09 3.45-8.75 3.38-12.64-.16l-.6-.55c-3.84-3.5-4.48-9.09-1.43-12.51l10.42-11.65 14.6 13.29-9.35 10.46"/>
         </a>
-        <a xlink:href="/sections/western-india-measured-sections#e">
+        <a xlink:href="e">
             <path id="India_svg__punjab" onclick="navTo('e')" class="India_svg__hoverthing3" d="M380.52 420.53h-1.5c-4.63-.01-8.34-4.29-8.28-9.54l.01-.81c.06-5.19 3.82-9.39 8.39-9.38l15.63.04-.22 19.74-14.03-.05"/>
         </a>
         <a xlink:href="#India_svg__a">

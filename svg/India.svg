@@ -1460,7 +1460,7 @@
 		<path id="jawa" onclick="navTo('f')" class="hoverthing3" d="M579.64,486.86l-1,1.12c-3.09,3.45-8.75,3.38-12.64-0.16l-0.6-0.55
 			c-3.84-3.5-4.48-9.09-1.43-12.51l10.42-11.65l14.6,13.29L579.64,486.86"/>
 	</a>
-	<a xlink:href="/sections/western-india-measured-sections#e" >
+	<a xlink:href="e" >
 		<path id="punjab" onclick="navTo('e')" class="hoverthing3" d="M380.52,420.53l-1.5,0c-4.63-0.01-8.34-4.29-8.28-9.54l0.01-0.81
 			c0.06-5.19,3.82-9.39,8.39-9.38l15.63,0.04l-0.22,19.74L380.52,420.53"/>
 	</a>
