@@ -32,6 +32,7 @@
     "compress:kashmir": "npx svgo 'svg/Kashmir Map.svg' -o 'svg/Kashmir_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:key_map_pakistan_sections": "npx svgo 'svg/Key Map_Pakistan sections.svg' -o 'svg/Key_Map_Pakistan_Sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:key_map_western_india_sections": "npx svgo 'svg/Key Map_Western India sections.svg' -o 'svg/Key_Map_Western_India_Sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
+    "compress:key_map_eastern_india_sections": "npx svgo 'svg/Key Map_Eastern India sections.svg' -o 'svg/Key_Map_Eastern_India_Sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:khaur_sections": "npx svgo 'svg/khaur sections.svg' -o 'svg/khaur_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:mawa_sections": "npx svgo 'svg/mawa sections.svg' -o 'svg/mawa_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:mirpur_sections": "npx svgo 'svg/New Mirpur Sections.svg' -o 'svg/New Mirpur_Sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
