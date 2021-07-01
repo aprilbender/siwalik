@@ -25,6 +25,7 @@
     "compress:indus": "npx svgo 'svg/Trans Indus.svg' -o 'svg/Trans_Indus_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:marwat_sections": "npx svgo 'svg/marwat sections.svg' -o 'svg/marwat_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:western_india": "npx svgo 'svg/Western India.svg' -o 'svg/Western_India_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
+    "compress:east_india": "npx svgo 'svg/East India Key.svg' -o 'svg/East_India_Key_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:jari_sections": "npx svgo 'svg/jari sections.svg' -o 'svg/jari_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:kangra_sections": "npx svgo 'svg/kangra sections.svg' -o 'svg/kangra_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:nalad_sections": "npx svgo 'svg/nalad sections.svg' -o 'svg/nalad_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
