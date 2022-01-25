@@ -35,6 +35,7 @@
     "compress:key_map_western_india_sections": "npx svgo 'svg/Key Map_Western India sections.svg' -o 'svg/Key_Map_Western_India_Sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:key_map_eastern_india_sections": "npx svgo 'svg/Key Map_Eastern India sections.svg' -o 'svg/Key_Map_Eastern_India_Sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:khaur_sections": "npx svgo 'svg/khaur sections.svg' -o 'svg/khaur_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
+    "compress:khaur_riwat_sections": "npx svgo 'svg/khaur riwat sections.svg' -o 'svg/khaur_riwat_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:mawa_sections": "npx svgo 'svg/mawa sections.svg' -o 'svg/mawa_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:mirpur_sections": "npx svgo 'svg/New Mirpur Sections.svg' -o 'svg/New Mirpur_Sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:north_rohtas_sections": "npx svgo 'svg/North Rohtas Sections.svg' -o 'svg/North_Rohtas__Sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
