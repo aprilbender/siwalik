@@ -526,5 +526,17 @@
         <a xlink:href="/sections/measured-sections#dd">
             <path id="khaur_riwat_sections_svg__kul" transform="rotate(143.226 815.608 598.644)" class="khaur_riwat_sections_svg__hoverthingQ" d="M800.8 499.91h29.65v197.44H800.8z"/>
         </a>
+        <a xlink:href="/sections/measured-sections#aa">
+            <path id="khaur_riwat_sections_svg__dovac" transform="rotate(-45.001 1703.551 268.975)" class="khaur_riwat_sections_svg__hoverthingQ" d="M1685.45 217.69h36.19v102.53h-36.19z"/>
+        </a>
+        <a xlink:href="/sections/measured-sections#d">
+            <path id="khaur_riwat_sections_svg__shahpur" transform="rotate(-9.759 1553.029 209.306)" class="khaur_riwat_sections_svg__hoverthingQ" d="M1546.32 200.34h13.26v17.91h-13.26z"/>
+        </a>
+        <a xlink:href="/sections/measured-sections#e">
+            <path id="khaur_riwat_sections_svg__dhok" transform="rotate(-2.04 1553.368 249.753)" class="khaur_riwat_sections_svg__hoverthingQ" d="M1543.57 240.09h19.09v19.25h-19.09z"/>
+        </a>
+        <a xlink:href="/sections/measured-sections#f">
+            <path id="khaur_riwat_sections_svg__soan" transform="rotate(-9.759 1627.676 175.404)" class="khaur_riwat_sections_svg__hoverthingQ" d="M1621.98 152.51h11.22v45.77h-11.22z"/>
+        </a>
     </g>
 </svg>
