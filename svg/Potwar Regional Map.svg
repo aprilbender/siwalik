@@ -8,6 +8,7 @@
 	.hoverthing4{opacity:0.8;fill:#FF931E;}
 	.hoverthing5{opacity:0.8;fill:#F15A24;}
 	.hoverthing7{opacity:0.8;fill:#009245;}
+	.hoverthing8{fill:#D4145A;}
 	.st0{opacity:0.62;}
 	.st1{fill:#D1BD42;}
 	.st2{fill:none;stroke:#231F20;stroke-miterlimit:10;}
@@ -28,8 +29,7 @@
 	.st17{fill:none;stroke:#F15A24;stroke-width:5;stroke-miterlimit:10;}
 	.st18{fill:none;stroke:#9E1F63;stroke-width:5;stroke-miterlimit:10;}
 	.st19{fill:none;stroke:#009245;stroke-width:5;stroke-miterlimit:10;}
-	.st20{fill:#D4145A;}
-	.st21{fill:none;stroke:#D4145A;stroke-width:6;stroke-miterlimit:10;stroke-dasharray:36,36,36;}
+	.st20{fill:none;stroke:#D4145A;stroke-width:6;stroke-miterlimit:10;stroke-dasharray:36,36,36;}
 </style>
 <g id="Layer_1">
 </g>
@@ -1865,8 +1865,8 @@
 			l-0.01,1.02c-0.07,6.51,4.51,11.85,10.23,11.92l19.52,0.25l0.25-24.75L163.78,567.02"/>
 	</a>
 	<a xlink:href="#k" >
-		<path id="riwat" onclick="navTo('k')" class="st20" d="M369.49,644.29l-1.59,0.99c-4.92,3.05-6.08,10.05-2.6,15.65l0.54,0.87
-			c3.44,5.53,10.18,7.57,15.04,4.56l16.6-10.28l-13.09-21L369.49,644.29"/>
+		<path id="riwat" onclick="navTo('k')" class="hoverthing8" d="M369.49,644.29l-1.59,0.99c-4.92,3.05-6.08,10.05-2.6,15.65
+			l0.54,0.87c3.44,5.53,10.18,7.57,15.04,4.56l16.6-10.28l-13.09-21L369.49,644.29"/>
 	</a>
 	<a xlink:href="#l" >
 		<path id="dhulian" onclick="navTo('l')" class="hoverthing3" d="M580.8,445.06l-0.02-1.87c-0.08-5.79,5.19-10.51,11.76-10.54
@@ -2178,7 +2178,7 @@
 </g>
 <g id="Bob_x27_s_Map">
 	
-		<rect x="353.07" y="381.3" transform="matrix(0.866 -0.5 0.5 0.866 -160.2401 397.44)" class="st21" width="616.88" height="232.86"/>
+		<rect x="353.07" y="381.3" transform="matrix(0.866 -0.5 0.5 0.866 -160.2401 397.44)" class="st20" width="616.88" height="232.86"/>
 	<g>
 	</g>
 	<g>
