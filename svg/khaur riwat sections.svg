@@ -1845,5 +1845,21 @@
 		
 			<rect id="kul" x="800.8" y="499.91" transform="matrix(-0.801 0.5987 -0.5987 -0.801 1827.318 589.8539)" class="hoverthingQ" width="29.65" height="197.44"/>
 	</a>
+	<a xlink:href="/sections/measured-sections#aa" >
+		
+			<rect id="dovac" x="1685.45" y="217.69" transform="matrix(0.7071 -0.7071 0.7071 0.7071 308.778 1283.3638)" class="hoverthingQ" width="36.19" height="102.53"/>
+	</a>
+	<a xlink:href="/sections/measured-sections#d" >
+		
+			<rect id="shahpur" x="1546.32" y="200.34" transform="matrix(0.9855 -0.1695 0.1695 0.9855 -13.0047 266.2671)" class="hoverthingQ" width="13.26" height="17.91"/>
+	</a>
+	<a xlink:href="/sections/measured-sections#e" >
+		
+			<rect id="dhok" x="1543.57" y="240.09" transform="matrix(0.9994 -0.0356 0.0356 0.9994 -7.9066 55.4582)" class="hoverthingQ" width="19.09" height="19.25"/>
+	</a>
+	<a xlink:href="/sections/measured-sections#f" >
+		
+			<rect id="soan" x="1621.98" y="152.51" transform="matrix(0.9855 -0.1695 0.1695 0.9855 -6.1781 278.4293)" class="hoverthingQ" width="11.22" height="45.77"/>
+	</a>
 </g>
 </svg>
