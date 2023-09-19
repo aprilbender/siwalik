@@ -45,6 +45,7 @@
     "compress:pind_sections": "npx svgo 'svg/pind savikka sections.svg' -o 'svg/pind_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:potwar": "npx svgo 'svg/Potwar Regional Map.svg' -o 'svg/Potwar_Regional_Map_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:potwar_east": "npx svgo 'svg/East Potwar Key.svg' -o 'svg/east_potwar_key_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
+    "compress:time_map": "npx svgo 'svg/Time Map Key.svg' -o 'svg/time_map_key_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:rata_sections": "npx svgo 'svg/rata sections.svg' -o 'svg/rata_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:regional": "npx svgo 'svg/Regional Key Map.svg' -o 'svg/Regional_Key_Map_Compressed.svg' --pretty --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:romushi_sections": "npx svgo 'svg/romushi sections.svg' -o 'svg/romushi_sections_compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
@@ -68,6 +69,6 @@
   },
   "homepage": "https://github.com/aprilbender/siwalik#readme",
   "dependencies": {
-    "svgo": "^3.0.2"
+    "svgo": "^1.3.2"
   }
 }
