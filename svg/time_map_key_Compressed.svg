@@ -175,7 +175,7 @@
             <path id="Time_Map_Key_svg__kotal" onclick="navTo('c')" class="Time_Map_Key_svg__hoverthing4" d="M629.19 1669.64l1.87-.04c5.77-.13 10.36-5.53 10.25-12.08l-.02-1.01c-.11-6.47-4.82-11.61-10.52-11.48l-19.47.42.41 24.57 17.48-.38"/>
         </a>
         <a xlink:href="#Time_Map_Key_svg__b">
-            <path id="Time_Map_Key_svg__pabbi_00000129170995837138860910000016721597036801718413_" onclick="navTo('b')" class="Time_Map_Key_svg__hoverthing6" d="M720.74 1614.82h-1.87c-5.79.01-10.47-5.33-10.46-11.92v-1.02c.01-6.51 4.65-11.8 10.37-11.81l19.52-.03-.03 24.75-17.53.03"/>
+            <path id="Time_Map_Key_svg__pabbi" onclick="navTo('b')" class="Time_Map_Key_svg__hoverthing6" d="M720.74 1614.82h-1.87c-5.79.01-10.47-5.33-10.46-11.92v-1.02c.01-6.51 4.65-11.8 10.37-11.81l19.52-.03-.03 24.75-17.53.03"/>
         </a>
     </g>
     <g id="Time_Map_Key_svg___cow_tracks">
