@@ -92,10 +92,10 @@
             <path id="East_India_Key_svg__swat" onclick="navTo('e')" class="East_India_Key_svg__hoverthing4" d="M189.69 378.41l-1.48.05c-4.56.15-8.36-3.92-8.49-9.1l-.02-.8c-.13-5.11 3.42-9.38 7.93-9.53l15.38-.51.48 19.43-13.8.46"/>
         </a>
         <a xlink:href="#East_India_Key_svg__d">
-            <path id="East_India_Key_svg__other" onclick="navTo('d')" class="East_India_Key_svg__hoverthing3" d="M256.28 364.82l-.01-1.34c-.02-4.15 3.78-7.5 8.49-7.48h.73c4.65.02 8.44 3.35 8.45 7.45l.07 13.99-17.67-.06-.06-12.56"/>
+            <path id="East_India_Key_svg__surai" onclick="navTo('d')" class="East_India_Key_svg__hoverthing3" d="M256.28 364.82l-.01-1.34c-.02-4.15 3.78-7.5 8.49-7.48h.73c4.65.02 8.44 3.35 8.45 7.45l.07 13.99-17.67-.06-.06-12.56"/>
         </a>
         <a xlink:href="#East_India_Key_svg__c">
-            <path id="East_India_Key_svg__test" onclick="navTo('c')" class="East_India_Key_svg__hoverthing5" d="M313.49 374.13l1.36-.01c4.21-.02 7.61 3.84 7.59 8.61v.74c-.02 4.72-3.4 8.56-7.56 8.58l-14.19.07.07-17.93 12.73-.06"/>
+            <path id="East_India_Key_svg__tinau" onclick="navTo('c')" class="East_India_Key_svg__hoverthing5" d="M313.49 374.13l1.36-.01c4.21-.02 7.61 3.84 7.59 8.61v.74c-.02 4.72-3.4 8.56-7.56 8.58l-14.19.07.07-17.93 12.73-.06"/>
         </a>
     </g>
     <g id="East_India_Key_svg__towns">
