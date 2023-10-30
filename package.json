@@ -55,6 +55,7 @@
     "compress:kameng_sections": "npx svgo 'svg/kameng sections.svg' -o 'svg/kameng_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:muksar_sections": "npx svgo 'svg/muksar sections.svg' -o 'svg/muksar_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:surai_sections": "npx svgo 'svg/surai khola sections.svg' -o 'svg/surai_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
+    "compress:tinau_sections": "npx svgo 'svg/tinau sections.svg' -o 'svg/tinau_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:swat_sections": "npx svgo 'svg/swat khola sections.svg' -o 'svg/swat_sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:shaliganga_sections": "npx svgo 'svg/shaliganga sections.svg' -o 'svg/shaliganga_sections_compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
     "compress:soan": "npx svgo 'svg/Soan Sections.svg' -o 'svg/Soan_Sections_Compressed.svg' --pretty --enable=prefixIds --disable=convertStyleToAttrs --disable=inlineStyles",
