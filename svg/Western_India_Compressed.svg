@@ -127,7 +127,7 @@
         <a xlink:href="#Western_India_svg__b">
             <path id="Western_India_svg__kangra" onclick="navTo('b')" class="Western_India_svg__hoverthing5" d="M520.95 413.49l-1.5-.01c-4.63-.04-8.31-4.34-8.22-9.6l.01-.81c.09-5.19 3.88-9.37 8.45-9.33l15.63.15-.35 19.74-14.02-.14"/>
         </a>
-        <a xlink:href="/sections/western-india-measured-sections#e">
+        <a xlink:href="#Western_India_svg__e">
             <path id="Western_India_svg__jogin" onclick="navTo('e')" class="Western_India_svg__hoverthing5" d="M684.62 396.09l1.24-.84c3.84-2.59 9.31-1.15 12.22 3.23l.45.68c2.87 4.33 2.13 9.91-1.66 12.48l-12.95 8.75L673 403.94l11.62-7.85"/>
         </a>
         <a xlink:href="#Western_India_svg__c">
@@ -136,8 +136,8 @@
         <a xlink:href="#Western_India_svg__d">
             <path id="Western_India_svg__tt-1" onclick="navTo('d')" class="Western_India_svg__hoverthing4" d="M647.12 554.72l.01 1.5c.04 4.63-4.2 8.39-9.46 8.38h-.81c-5.19 0-9.43-3.72-9.47-8.29l-.12-15.63 19.74.01.11 14.03"/>
         </a>
-        <a xlink:href="/sections/western-india-measured-sections#f">
-            <path id="Western_India_svg__jawa" onclick="navTo('f')" class="Western_India_svg__hoverthing3" d="M579.64 486.86l-1 1.12c-3.09 3.45-8.75 3.38-12.64-.16l-.6-.55c-3.84-3.5-4.48-9.09-1.43-12.51l10.42-11.65 14.6 13.29-9.35 10.46"/>
+        <a xlink:href="#Western_India_svg__e">
+            <path id="Western_India_svg__jawa" onclick="navTo('e')" class="Western_India_svg__hoverthing3" d="M579.64 486.86l-1 1.12c-3.09 3.45-8.75 3.38-12.64-.16l-.6-.55c-3.84-3.5-4.48-9.09-1.43-12.51l10.42-11.65 14.6 13.29-9.35 10.46"/>
         </a>
         <a xlink:href="#Western_India_svg__e">
             <path id="Western_India_svg__punjab" onclick="navTo('e')" class="Western_India_svg__hoverthing3" d="M380.52 420.53h-1.5c-4.63-.01-8.34-4.29-8.28-9.54l.01-.81c.06-5.19 3.82-9.39 8.39-9.38l15.63.04-.22 19.74-14.03-.05"/>
