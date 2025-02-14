@@ -2,108 +2,98 @@
 <!--Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)-->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 891.09 1287.13" style="enable-background:new 0 0 891.09 1287.13;" xml:space="preserve">
   <style type="text/css">
-    .st0{fill:none;stroke:#231F20;stroke-width:0.3;}
-	.hoverthingQ{opacity:0.5;fill:#9C1F60;}
-	.st1{display:none;}
-	.st2{display:inline;fill:#F4DAB9;}
-	.st3{fill:none;stroke:#8BC53F;stroke-miterlimit:10;}
-	.st4{opacity:0.35;fill:#00A14B;}
-	.st5{fill:#F6921E;}
-	.st6{fill:#F4DAB9;}
-	.st7{fill:#EC1C24;}
-	.st8{fill:#FFFFFF;stroke:#231F20;stroke-miterlimit:10;}
-	.st9{stroke:#231F20;stroke-miterlimit:10;}
+    .garhi_section_svg__st0{fill:none;stroke:#231F20;stroke-width:0.3}.garhi_section_svg__hoverthingQ{opacity:0.5;fill:#9C1F60}.garhi_section_svg__st1{display:none}.garhi_section_svg__st2{display:inline;fill:#F4DAB9}.garhi_section_svg__st3{fill:none;stroke:#8BC53F;stroke-miterlimit:10}.garhi_section_svg__st4{opacity:0.35;fill:#00A14B}.garhi_section_svg__st5{fill:#F6921E}.garhi_section_svg__st6{fill:#F4DAB9}.garhi_section_svg__st7{fill:#EC1C24}.garhi_section_svg__st8{fill:#FFFFFF;stroke:#231F20;stroke-miterlimit:10}.garhi_section_svg__st9{stroke:#231F20;stroke-miterlimit:10}
   </style>
-  <symbol id="Deleted_Symbol" viewBox="-30.1 -12.21 60.2 24.42">
-    <line class="st0" x1="30.01" y1="6.21" x2="28.01" y2="4.71"/>
-    <line class="st0" x1="16.84" y1="-4.29" x2="12.59" y2="-3.54"/>
-    <line class="st0" x1="26.34" y1="1.13" x2="23.34" y2="1.13"/>
-    <line class="st0" x1="21.06" y1="-7.38" x2="22.17" y2="-4.42"/>
-    <line class="st0" x1="4.58" y1="9.57" x2="2.93" y2="12.13"/>
-    <line class="st0" x1="-9.87" y1="-10.84" x2="-8.01" y2="-8.16"/>
-    <line class="st0" x1="18.76" y1="5.8" x2="16.76" y2="2.55"/>
-    <line class="st0" x1="-29.99" y1="-1.12" x2="-27.74" y2="1.38"/>
-    <line class="st0" x1="-20.49" y1="-2.29" x2="-16.49" y2="0.21"/>
-    <line class="st0" x1="-21.82" y1="-5.95" x2="-23.82" y2="-4.7"/>
-    <line class="st0" x1="-7.12" y1="4.84" x2="-9.87" y2="7.09"/>
-    <line class="st0" x1="5.09" y1="-4.87" x2="3.09" y2="-3.62"/>
-    <line class="st0" x1="-6.32" y1="-5.47" x2="-3.27" y2="-5.6"/>
-    <line class="st0" x1="-4.07" y1="-0.26" x2="-1.68" y2="-2.08"/>
-    <line class="st0" x1="3.07" y1="3.73" x2="4.19" y2="0.67"/>
-    <line class="st0" x1="-2.41" y1="8.46" x2="-5.66" y2="9.46"/>
-    <line class="st0" x1="11.97" y1="2.09" x2="9.22" y2="3.84"/>
-    <line class="st0" x1="11.84" y1="7.46" x2="9.84" y2="5.96"/>
-    <line class="st0" x1="-20.24" y1="6.71" x2="-19.74" y2="3.46"/>
-    <line class="st0" x1="-12.24" y1="0.21" x2="-8.74" y2="0.96"/>
-    <line class="st0" x1="0.34" y1="-12.21" x2="0.45" y2="-9.21"/>
-    <line class="st0" x1="-15.7" y1="-7.61" x2="-17.12" y2="-5.56"/>
+  <symbol id="garhi_section_svg__Deleted_Symbol" viewBox="-30.1 -12.21 60.2 24.42">
+    <line class="garhi_section_svg__st0" x1="30.01" y1="6.21" x2="28.01" y2="4.71"/>
+    <line class="garhi_section_svg__st0" x1="16.84" y1="-4.29" x2="12.59" y2="-3.54"/>
+    <line class="garhi_section_svg__st0" x1="26.34" y1="1.13" x2="23.34" y2="1.13"/>
+    <line class="garhi_section_svg__st0" x1="21.06" y1="-7.38" x2="22.17" y2="-4.42"/>
+    <line class="garhi_section_svg__st0" x1="4.58" y1="9.57" x2="2.93" y2="12.13"/>
+    <line class="garhi_section_svg__st0" x1="-9.87" y1="-10.84" x2="-8.01" y2="-8.16"/>
+    <line class="garhi_section_svg__st0" x1="18.76" y1="5.8" x2="16.76" y2="2.55"/>
+    <line class="garhi_section_svg__st0" x1="-29.99" y1="-1.12" x2="-27.74" y2="1.38"/>
+    <line class="garhi_section_svg__st0" x1="-20.49" y1="-2.29" x2="-16.49" y2="0.21"/>
+    <line class="garhi_section_svg__st0" x1="-21.82" y1="-5.95" x2="-23.82" y2="-4.7"/>
+    <line class="garhi_section_svg__st0" x1="-7.12" y1="4.84" x2="-9.87" y2="7.09"/>
+    <line class="garhi_section_svg__st0" x1="5.09" y1="-4.87" x2="3.09" y2="-3.62"/>
+    <line class="garhi_section_svg__st0" x1="-6.32" y1="-5.47" x2="-3.27" y2="-5.6"/>
+    <line class="garhi_section_svg__st0" x1="-4.07" y1="-0.26" x2="-1.68" y2="-2.08"/>
+    <line class="garhi_section_svg__st0" x1="3.07" y1="3.73" x2="4.19" y2="0.67"/>
+    <line class="garhi_section_svg__st0" x1="-2.41" y1="8.46" x2="-5.66" y2="9.46"/>
+    <line class="garhi_section_svg__st0" x1="11.97" y1="2.09" x2="9.22" y2="3.84"/>
+    <line class="garhi_section_svg__st0" x1="11.84" y1="7.46" x2="9.84" y2="5.96"/>
+    <line class="garhi_section_svg__st0" x1="-20.24" y1="6.71" x2="-19.74" y2="3.46"/>
+    <line class="garhi_section_svg__st0" x1="-12.24" y1="0.21" x2="-8.74" y2="0.96"/>
+    <line class="garhi_section_svg__st0" x1="0.34" y1="-12.21" x2="0.45" y2="-9.21"/>
+    <line class="garhi_section_svg__st0" x1="-15.7" y1="-7.61" x2="-17.12" y2="-5.56"/>
   </symbol>
-  <g id="orng_brwn" class="st1">
-    <polygon class="st2" points="1430.25,961.26 1451.75,965.76 1492.25,958.26 1530.75,950.76 1546.25,952.26 1559.75,947.76 
+  <g id="garhi_section_svg__orng_brwn" class="garhi_section_svg__st1">
+    <polygon class="garhi_section_svg__st2" points="1430.25,961.26 1451.75,965.76 1492.25,958.26 1530.75,950.76 1546.25,952.26 1559.75,947.76 
 		1568.75,939.76 1604.58,911.59 1607.25,897.26 1637.25,865.76 1655.25,837.26 1665.25,805.76 1682.75,776.76 1689.75,750.26 
 		1701.25,715.76 1717.91,670.26 1724.25,630.26 1707.91,600.26 1697.25,642.26 1690.75,662.76 1692.75,669.76 1684.75,699.26 
 		1679.75,729.76 1664.52,751.09 1656.75,771.26 1648.41,773.09 1641.25,784.26 1632.25,807.76 1633.25,817.76 1619.75,837.26 
 		1614.58,854.92 1594.25,876.76 1548.75,913.26 1534.75,909.76 1522.84,915.45 1513.75,903.76 1499.75,899.76 1510.25,913.26 
 		1508.58,922.26 1483.75,941.26 1460.75,945.26 1459.75,933.76 1451.25,933.76 	"/>
-    <polygon class="st2" points="1752.25,617.26 1744.75,621.76 1725.75,582.26 1715.75,517.76 1718.75,506.26 1727.25,460.76 
+    <polygon class="garhi_section_svg__st2" points="1752.25,617.26 1744.75,621.76 1725.75,582.26 1715.75,517.76 1718.75,506.26 1727.25,460.76 
 		1756.75,454.76 1775.25,460.76 1752.75,474.26 1740.75,490.76 1736.25,511.76 1735.25,531.76 1743.25,569.76 1758.75,592.26 
 		1759.75,601.76 	"/>
-    <polygon class="st2" points="1418.25,976.59 1367.91,1007.92 1346.75,1020.26 1321.75,1039.76 1310.58,1050.26 1301.25,1063.76 
+    <polygon class="garhi_section_svg__st2" points="1418.25,976.59 1367.91,1007.92 1346.75,1020.26 1321.75,1039.76 1310.58,1050.26 1301.25,1063.76 
 		1295.25,1107.59 1301.91,1108.59 1307.25,1113.26 1309.75,1126.26 1306.91,1134.59 1299.25,1139.59 1304.75,1148.26 
 		1322.75,1132.76 1330.58,1128.26 1348.25,1122.26 1361.75,1096.26 1361.91,1092.59 1353.25,1089.59 1356.25,1086.26 
 		1377.25,1065.76 1382.75,1064.76 1400.58,1046.26 1411.25,1043.92 1414.75,1038.26 1415.75,1021.76 1438.25,1018.26 
 		1447.75,1009.26 1488.25,999.26 1506.58,985.59 1505.91,982.59 1478.75,992.26 1464.25,994.26 1445.91,1001.92 1438.75,1002.76 
 		1437.75,996.76 	"/>
-    <path class="st2" d="M1303.5,1129.26c0,4.69-3.26,8-5.75,8c-2.49,0-6-3.81-6-8.5c0-4.69,3.51-8.5,6-8.5
+    <path class="garhi_section_svg__st2" d="M1303.5,1129.26c0,4.69-3.26,8-5.75,8c-2.49,0-6-3.81-6-8.5c0-4.69,3.51-8.5,6-8.5
 		C1300.23,1120.26,1303.5,1124.56,1303.5,1129.26z"/>
-    <path class="st2" d="M1282.75,1103.26c0,0-8.75,11,2.25,22s2.25-1.5,2.25-1.5l-1.25-16.75L1282.75,1103.26z"/>
-    <path class="st2" d="M1309.75,1150.51c3,2.75,5,2.25,9.5,2.75c7.18,0,12-9.5,12-13.5c0-4-6.25-4.75-11.5,1.75
+    <path class="garhi_section_svg__st2" d="M1282.75,1103.26c0,0-8.75,11,2.25,22s2.25-1.5,2.25-1.5l-1.25-16.75L1282.75,1103.26z"/>
+    <path class="garhi_section_svg__st2" d="M1309.75,1150.51c3,2.75,5,2.25,9.5,2.75c7.18,0,12-9.5,12-13.5c0-4-6.25-4.75-11.5,1.75
 		C1312.57,1141.51,1309.75,1146.5,1309.75,1150.51z"/>
-    <polygon class="st2" points="997.25,1236.76 1052.25,1235.76 1073.75,1237.76 1112.25,1228.26 1144.75,1215.76 1156.25,1207.26 
+    <polygon class="garhi_section_svg__st2" points="997.25,1236.76 1052.25,1235.76 1073.75,1237.76 1112.25,1228.26 1144.75,1215.76 1156.25,1207.26 
 		1215.25,1186.76 1240.75,1176.76 1243.75,1162.26 1252.25,1152.26 1258.25,1130.26 1250.75,1101.76 1224.25,1112.76 
 		1222.75,1120.26 1234.25,1127.26 1212.75,1155.26 1197.75,1171.26 1146.75,1193.26 1128.75,1206.26 1091.75,1210.76 
 		1040.25,1208.76 1004.75,1212.26 1004.75,1201.26 994.75,1184.76 	"/>
-    <polygon class="st2" points="1077.75,1108.76 1108.25,1114.76 1132.25,1101.76 1147.25,1081.76 1152.75,1054.76 1147.25,1035.26 
+    <polygon class="garhi_section_svg__st2" points="1077.75,1108.76 1108.25,1114.76 1132.25,1101.76 1147.25,1081.76 1152.75,1054.76 1147.25,1035.26 
 		1133.58,1017.92 1128.75,1014.76 1141.25,1047.26 1126.25,1084.26 1108.75,1100.26 1084.25,1100.26 1060.58,1092.59 
 		1046.91,1091.59 1038.58,1095.92 1025.91,1107.92 1019.58,1118.92 1022.58,1143.92 1015.58,1162.59 1006.25,1162.26 
 		997.58,1165.92 997.91,1169.26 1018.58,1168.59 1032.58,1159.59 1030.25,1141.26 1033.91,1128.26 1035.25,1111.92 1044.25,1100.92 
 		1055.91,1102.59 	"/>
   </g>
-  <g id="bkgd_org_brwn"/>
-  <g id="green_x2B_blue">
-    <path class="st3" d="M698.96,674.26"/>
-    <path class="st3" d="M375.54,389.01"/>
-    <polygon class="st4" points="578.96,562.26 538.29,582.26 498.29,590.26 482.96,594.93 438.96,643.59 410.29,638.93 395.63,632.93 
+  <g id="garhi_section_svg__bkgd_org_brwn"/>
+  <g id="garhi_section_svg__green_x2B_blue">
+    <path class="garhi_section_svg__st3" d="M698.96,674.26"/>
+    <path class="garhi_section_svg__st3" d="M375.54,389.01"/>
+    <polygon class="garhi_section_svg__st4" points="578.96,562.26 538.29,582.26 498.29,590.26 482.96,594.93 438.96,643.59 410.29,638.93 395.63,632.93 
 		366.29,634.93 337.63,634.26 311.55,631.33 286.29,641.59 256.29,646.26 244.96,658.93 218.29,682.93 210.96,680.93 248.29,642.93 
 		270.96,636.93 307.03,627.06 350.29,624.93 374.29,630.93 392.96,621.59 412.96,632.26 440.29,634.26 475.63,589.59 546.96,572.26 
 		575.63,550.93 	"/>
-    <polygon class="st4" points="312.98,104.23 303.63,132.26 299.63,155.59 307.63,193.59 326.96,228.26 332.56,251.36 328.29,285.59 
+    <polygon class="garhi_section_svg__st4" points="312.98,104.23 303.63,132.26 299.63,155.59 307.63,193.59 326.96,228.26 332.56,251.36 328.29,285.59 
 		277.98,333.36 248.09,369.04 233.86,380.34 222.29,392.93 210.29,412.93 209.63,444.93 202.96,470.26 182.96,496.93 176.96,511.59 
 		173.63,526.26 179.63,545.59 196.18,564.53 214.29,590.26 221.63,610.93 222.29,630.26 213.63,655.59 204.96,670.93 198.96,668.26 
 		213.63,642.93 216.96,606.93 200.96,583.59 187.63,565.59 174.29,552.26 162.96,520.26 173.63,492.93 196.96,461.59 202.29,412.26 
 		211.45,399.84 219.63,381.59 243.63,359.59 270.29,322.93 319.63,278.26 324.96,254.26 321.63,230.93 294.29,185.59 290.96,155.59 
 		303.63,99.59 	"/>
-    <polygon class="st4" points="440.79,902.26 434.79,902.26 448.29,895.51 463.04,883.51 467.81,875.34 470.43,869.18 478.79,854.26 
+    <polygon class="garhi_section_svg__st4" points="440.79,902.26 434.79,902.26 448.29,895.51 463.04,883.51 467.81,875.34 470.43,869.18 478.79,854.26 
 		483.54,847.76 500.29,849.26 529.79,854.51 551.04,850.51 563.54,842.26 582.54,835.51 593.29,841.26 606.29,849.26 641.29,854.76 
 		646.54,859.26 620.79,857.76 594.29,848.76 583.79,841.01 563.29,847.76 549.29,855.26 526.79,856.76 493.79,851.76 482.29,854.26 
 		465.79,886.26 447.79,899.76 	"/>
   </g>
-  <g id="orng">
-    <path class="st5" d="M717.4,1072.84l-610.11,2.42c-6.6,0-1.86-7.82-1.86-14.42l-0.47-250.58c0-6.6,8.73,1.33,15.33,1.33l40-2.33
+  <g id="garhi_section_svg__orng">
+    <path class="garhi_section_svg__st5" d="M717.4,1072.84l-610.11,2.42c-6.6,0-1.86-7.82-1.86-14.42l-0.47-250.58c0-6.6,8.73,1.33,15.33,1.33l40-2.33
 		l12.05,3.22l11.95,4.45l15-2.67l31,17.33l14,1.67l16-12l20-7l10,10l20,32.67l14,10.33l25,18l53,10l58,45l24,1l31-11l19,20l19,6
 		c6.6,0,18,12.4,18,19l33,12l27,22l45,19l43,38C719.29,1072.86,724,1072.84,717.4,1072.84z"/>
-    <path class="st5" d="M775.63,988.26l-34.67-23.33c-6.6,0-26-30.07-26-36.67l-5.33-23.33l6.67-22.67l-56.67-45.33
+    <path class="garhi_section_svg__st5" d="M775.63,988.26l-34.67-23.33c-6.6,0-26-30.07-26-36.67l-5.33-23.33l6.67-22.67l-56.67-45.33
 		c0-6.6,21.4-126,28-126l6.67,6.67l38.67,17.33c2.87,0,11.34,6.12,22.67,10.67c6.28,2.52,13.53,3.28,19.33,6
 		c7.82,3.66,13.33,9.19,13.33,11.33l-1.33,243.33C786.96,1012.86,782.96,1000.93,775.63,988.26z"/>
-    <polygon class="st5" points="210.29,646.26 208.29,656.26 197.79,670.76 177.79,677.26 161.29,672.76 156.79,664.26 153.79,650.26 
+    <polygon class="garhi_section_svg__st5" points="210.29,646.26 208.29,656.26 197.79,670.76 177.79,677.26 161.29,672.76 156.79,664.26 153.79,650.26 
 		146.29,644.76 116.29,646.26 103.79,637.76 101.79,76.76 237.29,74.76 226.79,112.76 219.79,126.76 208.29,188.76 212.79,206.26 
 		202.79,226.76 207.29,242.76 230.79,251.26 246.29,261.26 270.79,267.76 273.79,274.26 269.23,298.82 264.79,304.26 249.79,309.26 
 		238.29,322.26 222.79,327.26 208.29,342.76 208.29,362.26 198.79,380.26 183.29,394.76 176.79,400.26 173.29,417.26 170.79,434.76 
 		175.29,459.76 169.29,475.26 137.29,500.26 133.29,512.26 131.79,532.76 127.29,546.76 127.79,553.76 141.07,572.57 167.29,589.76 
 		172.29,604.26 187.79,614.76 199.79,619.26 	"/>
   </g>
-  <g id="sepia">
-    <polygon class="st6" points="786.4,1006.84 788.29,1072.76 726.79,1072.26 669.45,1023.86 635.29,1010.26 599.79,984.26 
+  <g id="garhi_section_svg__sepia">
+    <polygon class="garhi_section_svg__st6" points="786.4,1006.84 788.29,1072.76 726.79,1072.26 669.45,1023.86 635.29,1010.26 599.79,984.26 
 		574.29,974.26 553.79,957.26 535.79,951.76 515.29,928.76 482.29,939.76 464.79,941.26 451.29,933.26 441.29,922.26 407.79,898.76 
 		389.29,892.76 367.79,889.26 332.29,877.26 310.25,854.87 288.29,821.26 275.29,813.26 261.29,820.26 251.29,829.76 236.29,832.76 
 		205.79,816.26 181.79,814.76 154.9,807.91 125.29,812.76 102.79,808.26 105.79,680.26 106.29,639.26 120.79,646.26 145.79,643.76 
@@ -113,70 +103,70 @@
 		241.63,319.59 250.29,310.26 262.29,305.59 268.96,298.26 275.29,273.26 271.63,266.26 245.63,260.26 208.29,242.93 204.96,224.26 
 		212.96,206.93 209.29,183.26 219.29,136.26 233.29,76.26 786.4,73.89 	"/>
   </g>
-  <g id="red_1_">
-    <circle class="st7" cx="448.89" cy="904.79" r="3.94"/>
-    <circle class="st7" cx="456.55" cy="903.13" r="3.94"/>
-    <circle class="st7" cx="465.22" cy="894.13" r="3.94"/>
-    <circle class="st7" cx="473.22" cy="888.79" r="3.94"/>
-    <circle class="st7" cx="480.89" cy="878.13" r="3.94"/>
-    <circle class="st7" cx="489.55" cy="869.79" r="3.94"/>
-    <circle class="st7" cx="495.96" cy="859.93" r="3.94"/>
-    <circle class="st7" cx="505.63" cy="861.59" r="3.94"/>
-    <circle class="st7" cx="516.29" cy="862.26" r="3.94"/>
-    <circle class="st7" cx="525.96" cy="862.93" r="3.94"/>
-    <circle class="st7" cx="536.63" cy="862.59" r="3.94"/>
-    <circle class="st7" cx="545.96" cy="861.93" r="3.94"/>
-    <circle class="st7" cx="557.29" cy="859.93" r="3.94"/>
-    <circle class="st7" cx="566.29" cy="856.93" r="3.94"/>
-    <circle class="st7" cx="580.63" cy="826.93" r="3.94"/>
-    <circle class="st7" cx="570.29" cy="829.59" r="3.94"/>
-    <circle class="st7" cx="558.96" cy="837.59" r="3.94"/>
-    <circle class="st7" cx="548.63" cy="844.93" r="3.94"/>
-    <circle class="st7" cx="539.29" cy="847.93" r="3.94"/>
-    <circle class="st7" cx="529.63" cy="849.26" r="3.94"/>
-    <circle class="st7" cx="518.29" cy="848.59" r="3.94"/>
-    <circle class="st7" cx="509.96" cy="846.93" r="3.94"/>
-    <circle class="st7" cx="502.63" cy="845.59" r="3.94"/>
-    <circle class="st7" cx="491.96" cy="843.59" r="3.94"/>
-    <circle class="st7" cx="484.63" cy="843.26" r="3.94"/>
-    <circle class="st7" cx="476.29" cy="848.26" r="3.94"/>
-    <circle class="st7" cx="468.96" cy="860.26" r="3.94"/>
-    <circle class="st7" cx="463.96" cy="869.59" r="3.94"/>
-    <circle class="st7" cx="461.96" cy="878.93" r="3.94"/>
-    <circle class="st7" cx="441.96" cy="883.93" r="3.94"/>
-    <circle class="st7" cx="442.29" cy="893.93" r="3.94"/>
-    <circle class="st7" cx="448.96" cy="891.26" r="3.94"/>
-    <circle class="st7" cx="455.96" cy="887.59" r="3.94"/>
-    <circle class="st7" cx="449.29" cy="880.26" r="3.94"/>
-    <circle class="st7" cx="453.63" cy="873.93" r="3.94"/>
-    <circle class="st7" cx="453.29" cy="864.26" r="3.94"/>
-    <circle class="st7" cx="451.96" cy="853.93" r="3.94"/>
-    <circle class="st7" cx="450.63" cy="842.59" r="3.94"/>
-    <circle class="st7" cx="454.63" cy="834.26" r="3.94"/>
-    <circle class="st7" cx="469.29" cy="799.93" r="3.94"/>
-    <circle class="st7" cx="477.63" cy="791.26" r="3.94"/>
-    <circle class="st7" cx="484.96" cy="780.59" r="3.94"/>
-    <circle class="st7" cx="494.29" cy="773.93" r="3.94"/>
-    <circle class="st7" cx="505.63" cy="767.26" r="3.94"/>
-    <circle class="st7" cx="516.63" cy="763.26" r="3.94"/>
-    <circle class="st7" cx="525.29" cy="759.59" r="3.94"/>
-    <circle class="st7" cx="594.29" cy="831.93" r="3.94"/>
-    <circle class="st7" cx="601.29" cy="840.26" r="3.94"/>
-    <circle class="st7" cx="609.96" cy="845.59" r="3.94"/>
-    <circle class="st7" cx="620.96" cy="846.93" r="3.94"/>
-    <circle class="st7" cx="632.29" cy="846.59" r="3.94"/>
-    <circle class="st7" cx="301.63" cy="270.26" r="3.94"/>
-    <circle class="st7" cx="307.96" cy="273.59" r="3.94"/>
-    <circle class="st7" cx="299.63" cy="277.59" r="3.94"/>
-    <circle class="st7" cx="305.29" cy="279.59" r="3.94"/>
-    <circle class="st7" cx="302.63" cy="286.26" r="3.94"/>
-    <circle class="st7" cx="295.96" cy="283.93" r="3.94"/>
-    <circle class="st7" cx="289.96" cy="298.26" r="3.94"/>
-    <circle class="st7" cx="287.29" cy="303.93" r="3.94"/>
-    <circle class="st7" cx="281.96" cy="309.26" r="3.94"/>
-    <circle class="st7" cx="275.63" cy="314.26" r="3.94"/>
+  <g id="garhi_section_svg__red_1_">
+    <circle class="garhi_section_svg__st7" cx="448.89" cy="904.79" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="456.55" cy="903.13" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="465.22" cy="894.13" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="473.22" cy="888.79" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="480.89" cy="878.13" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="489.55" cy="869.79" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="495.96" cy="859.93" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="505.63" cy="861.59" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="516.29" cy="862.26" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="525.96" cy="862.93" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="536.63" cy="862.59" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="545.96" cy="861.93" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="557.29" cy="859.93" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="566.29" cy="856.93" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="580.63" cy="826.93" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="570.29" cy="829.59" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="558.96" cy="837.59" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="548.63" cy="844.93" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="539.29" cy="847.93" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="529.63" cy="849.26" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="518.29" cy="848.59" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="509.96" cy="846.93" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="502.63" cy="845.59" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="491.96" cy="843.59" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="484.63" cy="843.26" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="476.29" cy="848.26" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="468.96" cy="860.26" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="463.96" cy="869.59" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="461.96" cy="878.93" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="441.96" cy="883.93" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="442.29" cy="893.93" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="448.96" cy="891.26" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="455.96" cy="887.59" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="449.29" cy="880.26" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="453.63" cy="873.93" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="453.29" cy="864.26" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="451.96" cy="853.93" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="450.63" cy="842.59" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="454.63" cy="834.26" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="469.29" cy="799.93" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="477.63" cy="791.26" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="484.96" cy="780.59" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="494.29" cy="773.93" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="505.63" cy="767.26" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="516.63" cy="763.26" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="525.29" cy="759.59" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="594.29" cy="831.93" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="601.29" cy="840.26" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="609.96" cy="845.59" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="620.96" cy="846.93" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="632.29" cy="846.59" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="301.63" cy="270.26" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="307.96" cy="273.59" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="299.63" cy="277.59" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="305.29" cy="279.59" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="302.63" cy="286.26" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="295.96" cy="283.93" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="289.96" cy="298.26" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="287.29" cy="303.93" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="281.96" cy="309.26" r="3.94"/>
+    <circle class="garhi_section_svg__st7" cx="275.63" cy="314.26" r="3.94"/>
   </g>
-  <g id="base-gahri">
+  <g id="garhi_section_svg__base-gahri">
     <image style="overflow:visible;" width="1555" height="2369" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABhMAAAlBCAQAAADkMtgrAAAACXBIWXMAAC4jAAAuIwF4pT92AAAD
 GGlDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjaY2BgnuDo4uTKJMDAUFBUUuQe5BgZERmlwH6e
 gY2BmYGBgYGBITG5uMAxIMCHgYGBIS8/L5UBFTAyMHy7xsDIwMDAcFnX0cXJlYE0wJpcUFTCwMBw
@@ -8869,38 +8859,38 @@ EARBEARBYgJBEARBEARBECQmEARBEARBEARBYgJBEARBEARBECQmEARBEARBEARBYgJBEARBEARB
 EASJCQRBEARBEARBkJhAEARBEARBEASJCQRBEARBEARBkJhAEARBEARBEASJCQRBEARBEARBkJhA
 EARBEARBEASJCQRBEARBEARBfCH8/wDvrWWU5arYBgAAAABJRU5ErkJggg==" transform="matrix(0.48 0 0 0.48 68.4255 54.7539)"/>
   </g>
-  <g id="section_boxes">
+  <g id="garhi_section_svg__section_boxes">
     <a xlink:href="/sections/measured-sections#t">
-      <polygon id="garhi" class="hoverthingQ" points="402.53,542.56 401.92,542.82 311.22,336.28 343.25,334.34 338.75,259.98 
+      <polygon id="garhi_section_svg__garhi" class="garhi_section_svg__hoverthingQ" points="402.53,542.56 401.92,542.82 311.22,336.28 343.25,334.34 338.75,259.98 
 			268.57,264.23 273.07,338.59 287.2,337.73 381.26,551.9 350.65,565.34 494.95,893.93 546.82,871.15 		"/>
     </a>
   </g>
-  <g id="circles">
+  <g id="garhi_section_svg__circles">
     <g>
-      <circle class="st8" cx="311.79" cy="293.26" r="3.94"/>
-      <circle class="st8" cx="301.63" cy="293.62" r="3.94"/>
-      <circle class="st8" cx="286.98" cy="288.09" r="3.94"/>
-      <circle class="st8" cx="440.95" cy="640.99" r="3.94"/>
-      <circle class="st8" cx="445.35" cy="650.77" r="3.94"/>
-      <circle class="st8" cx="452.85" cy="665.27" r="3.94"/>
-      <circle class="st8" cx="216.85" cy="633.27" r="3.94"/>
-      <circle class="st8" cx="457.35" cy="723.77" r="3.94"/>
-      <circle class="st8" cx="460.35" cy="729.77" r="3.94"/>
-      <circle class="st8" cx="467.35" cy="741.27" r="3.94"/>
-      <circle class="st8" cx="468.85" cy="755.77" r="3.94"/>
-      <circle class="st8" cx="473.85" cy="774.77" r="3.94"/>
-      <circle class="st8" cx="475.29" cy="831.76" r="3.94"/>
-      <circle class="st8" cx="460.79" cy="825.26" r="3.94"/>
-      <circle class="st8" cx="456.79" cy="819.76" r="3.94"/>
-      <circle class="st9" cx="459.79" cy="820.76" r="3.94"/>
-      <circle class="st9" cx="328.9" cy="304.92" r="3.94"/>
-      <circle class="st9" cx="316.28" cy="308.99" r="3.94"/>
-      <circle class="st9" cx="293.79" cy="291.76" r="3.94"/>
-      <circle class="st9" cx="488.22" cy="853.79" r="3.94"/>
-      <circle class="st9" cx="499.54" cy="866.24" r="3.94"/>
-      <circle class="st9" cx="507.26" cy="872.15" r="3.94"/>
-      <circle class="st9" cx="229.01" cy="635.25" r="3.94"/>
-      <circle class="st9" cx="242.29" cy="638.26" r="3.94"/>
+      <circle class="garhi_section_svg__st8" cx="311.79" cy="293.26" r="3.94"/>
+      <circle class="garhi_section_svg__st8" cx="301.63" cy="293.62" r="3.94"/>
+      <circle class="garhi_section_svg__st8" cx="286.98" cy="288.09" r="3.94"/>
+      <circle class="garhi_section_svg__st8" cx="440.95" cy="640.99" r="3.94"/>
+      <circle class="garhi_section_svg__st8" cx="445.35" cy="650.77" r="3.94"/>
+      <circle class="garhi_section_svg__st8" cx="452.85" cy="665.27" r="3.94"/>
+      <circle class="garhi_section_svg__st8" cx="216.85" cy="633.27" r="3.94"/>
+      <circle class="garhi_section_svg__st8" cx="457.35" cy="723.77" r="3.94"/>
+      <circle class="garhi_section_svg__st8" cx="460.35" cy="729.77" r="3.94"/>
+      <circle class="garhi_section_svg__st8" cx="467.35" cy="741.27" r="3.94"/>
+      <circle class="garhi_section_svg__st8" cx="468.85" cy="755.77" r="3.94"/>
+      <circle class="garhi_section_svg__st8" cx="473.85" cy="774.77" r="3.94"/>
+      <circle class="garhi_section_svg__st8" cx="475.29" cy="831.76" r="3.94"/>
+      <circle class="garhi_section_svg__st8" cx="460.79" cy="825.26" r="3.94"/>
+      <circle class="garhi_section_svg__st8" cx="456.79" cy="819.76" r="3.94"/>
+      <circle class="garhi_section_svg__st9" cx="459.79" cy="820.76" r="3.94"/>
+      <circle class="garhi_section_svg__st9" cx="328.9" cy="304.92" r="3.94"/>
+      <circle class="garhi_section_svg__st9" cx="316.28" cy="308.99" r="3.94"/>
+      <circle class="garhi_section_svg__st9" cx="293.79" cy="291.76" r="3.94"/>
+      <circle class="garhi_section_svg__st9" cx="488.22" cy="853.79" r="3.94"/>
+      <circle class="garhi_section_svg__st9" cx="499.54" cy="866.24" r="3.94"/>
+      <circle class="garhi_section_svg__st9" cx="507.26" cy="872.15" r="3.94"/>
+      <circle class="garhi_section_svg__st9" cx="229.01" cy="635.25" r="3.94"/>
+      <circle class="garhi_section_svg__st9" cx="242.29" cy="638.26" r="3.94"/>
     </g>
     <g/>
     <g/>
