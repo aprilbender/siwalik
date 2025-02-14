@@ -253,6 +253,9 @@ const assembleTooltipClasses = (targetClassFragment) => {
   $(`rect[class^="${targetClassFragment}"]`).each((_, t) => {
     hoverthings.push("." + t.className.baseVal);
   });
+  $(`polygon[class^="${targetClassFragment}"]`).each((_, t) => {
+    hoverthings.push("." + t.className.baseVal);
+  });
   return hoverthings;
 };
 
