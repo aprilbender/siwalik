@@ -13,7 +13,6 @@
     "compress:chandigar_sections": "npx svgo -i 'svg/chandigar sections.svg' -o 'svg/chandigar_sections_Compressed.svg'",
     "compress:dag_sections": "npx svgo -i 'svg/dag section.svg' -o 'svg/dag_section_Compressed.svg'",
     "compress:dina_sections": "npx svgo -i 'svg/dina sections.svg' -o 'svg/dina_sections_Compressed.svg'",
-    "compress:eastern_potwar_sections": "npx svgo -i 'svg/Eastern Potwar Sections.svg' -o 'svg/Eastern_Potwar_Sections_Compressed.svg'",
     "compress:gabhir_sections": "npx svgo -i 'svg/gabhir sections.svg' -o 'svg/gabhir_sections_Compressed.svg'",
     "compress:garhi_sections": "npx svgo -i 'svg/garhi section.svg' -o 'svg/garhi_section_Compressed.svg'",
     "compress:guma_sections": "npx svgo -i 'svg/guma sections.svg' -o 'svg/guma_sections_Compressed.svg'",
@@ -21,7 +20,6 @@
     "compress:hari_sections": "npx svgo -i 'svg/haritalyangar sections.svg' -o 'svg/hari_sections_compressed.svg'",
     "compress:index_pakistan": "npx svgo --config svgo.noPrefix.mjs -i 'svg/Index Map_Pakistan.svg' -o 'svg/Index_Map_Pakistan_Compressed.svg'",
     "compress:index_india": "npx svgo --config svgo.noPrefix.mjs -i 'svg/Index Map_India.svg' -o 'svg/Index_Map_India_Compressed.svg'",
-    "compress:index": "npx svgo -i 'svg/Index Map.svg' -o 'svg/Index_Map_Compressed.svg'",
     "compress:indus": "npx svgo -i 'svg/Trans Indus.svg' -o 'svg/Trans_Indus_Compressed.svg'",
     "compress:marwat_sections": "npx svgo -i 'svg/marwat sections.svg' -o 'svg/marwat_sections_Compressed.svg'",
     "compress:western_india": "npx svgo -i 'svg/Western India.svg' -o 'svg/Western_India_Compressed.svg'",
@@ -47,7 +45,6 @@
     "compress:potwar_east": "npx svgo -i 'svg/East Potwar Key.svg' -o 'svg/east_potwar_key_Compressed.svg'",
     "compress:time_map": "npx svgo -i 'svg/Time Map Key.svg' -o 'svg/time_map_key_Compressed.svg'",
     "compress:rata_sections": "npx svgo -i 'svg/rata sections.svg' -o 'svg/rata_sections_Compressed.svg'",
-    "compress:regional": "npx svgo -i 'svg/Regional Key Map.svg' -o 'svg/Regional_Key_Map_Compressed.svg'",
     "compress:romushi_sections": "npx svgo -i 'svg/romushi sections.svg' -o 'svg/romushi_sections_compressed.svg'",
     "compress:sakrana_sections": "npx svgo -i 'svg/sakrana sections.svg' -o 'svg/sakrana_sections_Compressed.svg'",
     "compress:sauj_sections": "npx svgo -i 'svg/sauj sections.svg' -o 'svg/sauj_sections_Compressed.svg'",
@@ -60,7 +57,6 @@
     "compress:swat_sections": "npx svgo -i 'svg/swat khola sections.svg' -o 'svg/swat_sections_Compressed.svg'",
     "compress:shaliganga_sections": "npx svgo -i 'svg/shaliganga sections.svg' -o 'svg/shaliganga_sections_compressed.svg'",
     "compress:soan": "npx svgo -i 'svg/Soan Sections.svg' -o 'svg/Soan_Sections_Compressed.svg'",
-    "compress:subregional": "npx svgo -i 'svg/Subregional Key Map.svg' -o 'svg/Subregional_Key_Map_Compressed.svg'",
     "compress:tatrot_sections": "npx svgo -i 'svg/tatrot sections.svg' -o 'svg/tatrot_sections_Compressed.svg'"
   },
   "repository": {
